@@ -3,24 +3,95 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Contacts Backup, Export, Merge · ClientLens</title>
-<meta name="description" content="Back up every contact field, export to Excel or CSV, and merge duplicates with undo. Nothing leaves your phone.">
-<link rel="icon" href="../assets/contacts-backup-icon.png">
-<link rel="stylesheet" href="../assets/site.css">
+<title>Contacts Backup, Export, Merge · Back up iPhone contacts, export to Excel, merge duplicates</title>
+<meta name="description" content="Back up every iPhone contact to a vCard file, export contacts to Excel or CSV, restore with a preview and merge duplicate contacts with undo. No account, no internet access: nothing leaves your phone.">
+<link rel="canonical" href="https://clientlens.co/contacts-backup/">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<meta name="theme-color" content="#F6F7F4">
+<link rel="icon" href="/assets/contacts-backup-icon.png">
+<link rel="apple-touch-icon" href="/assets/contacts-backup-icon.png">
+<link rel="alternate" type="text/plain" title="Summary for AI assistants" href="/llms.txt">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="ClientLens">
+<meta property="og:title" content="Contacts Backup, Export, Merge">
+<meta property="og:description" content="Back up every contact, export to Excel or CSV, merge duplicates with undo. Nothing leaves your phone.">
+<meta property="og:url" content="https://clientlens.co/contacts-backup/">
+<meta property="og:image" content="https://clientlens.co/assets/og-contacts-backup.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Contacts Backup, Export, Merge app icon with a summary of its features.">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Contacts Backup, Export, Merge">
+<meta name="twitter:description" content="Back up every contact, export to Excel or CSV, merge duplicates with undo. Nothing leaves your phone.">
+<meta name="twitter:image" content="https://clientlens.co/assets/og-contacts-backup.png">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "MobileApplication",
+      "@id": "https://clientlens.co/contacts-backup/#app",
+      "name": "Contacts Backup, Export, Merge",
+      "alternateName": ["Contacts Backup", "Contacts Backup Export Merge"],
+      "url": "https://clientlens.co/contacts-backup/",
+      "image": "https://clientlens.co/assets/contacts-backup-icon.png",
+      "description": "Back up every contact to a standard vCard file, export contacts to Excel, CSV or JSON, restore with a preview, and merge duplicate contacts with undo. The app has no account and no internet access; contacts never leave the phone unless the user shares a file.",
+      "applicationCategory": "UtilitiesApplication",
+      "operatingSystem": "iOS, Android",
+      "inLanguage": "en",
+      "isAccessibleForFree": true,
+      "featureList": [
+        "Back up all contacts from every account (iCloud, Gmail, Exchange) to a vCard (.vcf) file",
+        "Fidelity report counting every field saved",
+        "Restore from a backup with a preview; restore one contact or many",
+        "Export contacts to Excel (.xlsx), CSV or JSON with chosen columns",
+        "Templates for Google Contacts, Outlook and newsletter tools",
+        "Find and merge duplicate contacts by name, phone or email, with undo",
+        "Backup history with compare between any two backups",
+        "Weekly or monthly backup reminders",
+        "No account, no ads, no analytics, no internet access"
+      ],
+      "offers": [
+        { "@type": "Offer", "name": "Free", "price": "0", "priceCurrency": "USD", "description": "Back up up to 500 contacts, export name, phone and email, find duplicates." },
+        { "@type": "Offer", "name": "Pro (one-time in-app purchase)", "price": "4.99", "priceCurrency": "USD", "description": "Unlimited contacts, every export column, merging with undo, compare and full history." }
+      ],
+      "publisher": { "@type": "Organization", "@id": "https://clientlens.co/#org", "name": "ClientLens", "url": "https://clientlens.co/" }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "ClientLens", "item": "https://clientlens.co/" },
+        { "@type": "ListItem", "position": 2, "name": "Contacts Backup, Export, Merge", "item": "https://clientlens.co/contacts-backup/" }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "name": "How to back up your iPhone contacts",
+      "step": [
+        { "@type": "HowToStep", "position": 1, "text": "Open Contacts Backup, Export, Merge and allow access to contacts." },
+        { "@type": "HowToStep", "position": 2, "text": "Tap Back Up Now." },
+        { "@type": "HowToStep", "position": 3, "text": "Choose where to save the vCard file: keep it in the app, Files, iCloud Drive, Google Drive, AirDrop or Mail." },
+        { "@type": "HowToStep", "position": 4, "text": "Check the report, which counts every phone number, email, photo and other field that was saved." }
+      ]
+    }
+  ]
+}
+</script>
+<link rel="stylesheet" href="/assets/site.css">
 </head>
 <body>
 <div class="wrap">
   <header class="top">
-    <a class="brand" href="../index.html"><span class="lens" aria-hidden="true"></span>ClientLens</a>
-    <nav><a href="support/index.html">Support</a><a href="privacy/index.html">Privacy</a></nav>
+    <a class="brand" href="/" aria-label="ClientLens home"><span class="lens" aria-hidden="true"></span>ClientLens</a>
+    <nav aria-label="Contacts Backup"><a href="/contacts-backup/support/">Support</a><a href="/contacts-backup/privacy/">Privacy</a></nav>
   </header>
 
   <main>
     <div class="hero">
-      <img src="../assets/contacts-backup-icon.png" alt="Contacts Backup, Export, Merge app icon" width="88" height="88">
+      <img src="/assets/contacts-backup-icon.png" alt="Contacts Backup, Export, Merge app icon" width="88" height="88">
       <div>
         <h1>Contacts Backup, Export, Merge</h1>
-        <p class="lead" style="margin:0">Every contact, every field, in one tap.</p>
+        <p class="lead" style="margin:0">Back up every contact, every field, in one tap.</p>
       </div>
     </div>
 
@@ -29,6 +100,8 @@
       <span class="store off">Google Play · coming soon</span>
     </div>
 
+    <p>Contacts Backup, Export, Merge is an iPhone and Android app that saves a complete copy of your contacts as a standard vCard file, exports them to Excel or CSV, and cleans up duplicate contacts safely. Use it before switching phones, after a sync mistake, or whenever you want a copy of your address book that you control.</p>
+
     <div class="promise">
       <strong>Nothing leaves your phone.</strong>
       No account, no server, no ads, no analytics. The app has no internet access at all. Your contacts go somewhere only when you send a file yourself.
@@ -36,13 +109,35 @@
 
     <h2>What it does</h2>
     <div class="features">
-      <div class="feature"><b>Back up completely</b><span>All accounts at once: iCloud, Gmail, Exchange. Phones, emails, addresses, birthdays, photos at full size, and a count of every field saved.</span></div>
+      <div class="feature"><b>Back up all your contacts</b><span>Every account at once: iCloud, Gmail, Exchange. Phone numbers, emails, addresses, birthdays, full-size photos, and a count of every field saved.</span></div>
       <div class="feature"><b>Restore with a preview</b><span>See what would come back before anything changes. Restore one contact or many. A fresh backup is always saved first.</span></div>
-      <div class="feature"><b>Export to Excel or CSV</b><span>Pick your columns or use ready-made layouts for Google Contacts, Outlook and newsletter tools.</span></div>
-      <div class="feature"><b>Merge duplicates safely</b><span>Review pairs side by side. Only clear matches are merged in bulk, and every merge can be undone.</span></div>
-      <div class="feature"><b>History you can read</b><span>Each backup shows what changed since the one before. Compare any two, or bring back a single contact.</span></div>
-      <div class="feature"><b>Standard files</b><span>Backups are ordinary vCard files that any phone, Mac, PC or mail app can open.</span></div>
+      <div class="feature"><b>Export contacts to Excel or CSV</b><span>Pick your columns or use ready-made layouts for Google Contacts, Outlook and Mailchimp-style newsletter tools. JSON too.</span></div>
+      <div class="feature"><b>Merge duplicate contacts safely</b><span>Review pairs side by side. Only clear matches are merged in bulk, and every merge can be undone.</span></div>
+      <div class="feature"><b>Backup history you can read</b><span>Each backup shows what changed since the one before. Compare any two, or bring back a single deleted contact.</span></div>
+      <div class="feature"><b>Standard vCard files</b><span>Backups are ordinary .vcf files that any phone, Mac, PC, Gmail or Outlook can import.</span></div>
     </div>
+
+    <h2>How to back up your iPhone contacts</h2>
+    <ol class="steps">
+      <li>Open the app and allow access to contacts.</li>
+      <li>Tap <b>Back Up Now</b>.</li>
+      <li>Choose where to keep the file: in the app, Files, iCloud Drive, Google Drive, AirDrop or Mail.</li>
+      <li>Check the report. It counts every phone number, email and photo that was saved, so you know nothing was dropped.</li>
+    </ol>
+
+    <h2>How to export contacts to Excel or CSV</h2>
+    <ol class="steps">
+      <li>Open the <b>Export</b> tab and pick Excel or CSV.</li>
+      <li>Choose a layout, such as Google Contacts or Outlook, or pick your own columns.</li>
+      <li>Check the preview, then tap <b>Export</b> and send the file where you need it.</li>
+    </ol>
+
+    <h2>How to merge duplicate contacts</h2>
+    <ol class="steps">
+      <li>Open the <b>Duplicates</b> tab and tap <b>Scan</b>.</li>
+      <li>Review each group side by side and pick the card to keep. Details from the other card are added to it.</li>
+      <li>Tap <b>Merge</b>. Changed your mind? Tap <b>Undo all</b>, or restore the backup saved before the merge.</li>
+    </ol>
 
     <h2>Price</h2>
     <div class="price">
@@ -51,12 +146,12 @@
     </div>
 
     <h2>Good to know</h2>
-    <p>On iPhone, Apple only lets apps read contact notes with special permission, so notes are not included in backups on iPhone. Every other field is.</p>
+    <p>On iPhone, Apple only lets apps read contact notes with special permission, so notes are not included in backups on iPhone. Every other field is. Questions? See <a href="/contacts-backup/support/">help and support</a>.</p>
   </main>
 
   <footer>
     <span>© 2026 ClientLens</span>
-    <span><a href="support/index.html">Support</a> · <a href="privacy/index.html">Privacy policy</a> · <a href="../index.html">All apps</a></span>
+    <span><a href="/contacts-backup/support/">Support</a> · <a href="/contacts-backup/privacy/">Privacy policy</a> · <a href="/">All apps</a></span>
   </footer>
 </div>
 </body>

@@ -1,0 +1,166 @@
+# ClientLens, full text
+
+> Plain-text copy of clientlens.co for AI assistants. ClientLens is an independent app studio. Contact: support@clientlens.co
+
+
+---
+
+Source: https://clientlens.co/contacts-backup/
+
+# Contacts Backup, Export, Merge
+
+Back up every contact, every field, in one tap.
+
+App Store · coming soon
+Google Play · coming soon
+
+Contacts Backup, Export, Merge is an iPhone and Android app that saves a complete copy of your contacts as a standard vCard file, exports them to Excel or CSV, and cleans up duplicate contacts safely. Use it before switching phones, after a sync mistake, or whenever you want a copy of your address book that you control.
+
+**Nothing leaves your phone.**
+No account, no server, no ads, no analytics. The app has no internet access at all. Your contacts go somewhere only when you send a file yourself.
+
+## What it does
+
+**Back up all your contacts.** Every account at once: iCloud, Gmail, Exchange. Phone numbers, emails, addresses, birthdays, full-size photos, and a count of every field saved.
+
+**Restore with a preview.** See what would come back before anything changes. Restore one contact or many. A fresh backup is always saved first.
+
+**Export contacts to Excel or CSV.** Pick your columns or use ready-made layouts for Google Contacts, Outlook and Mailchimp-style newsletter tools. JSON too.
+
+**Merge duplicate contacts safely.** Review pairs side by side. Only clear matches are merged in bulk, and every merge can be undone.
+
+**Backup history you can read.** Each backup shows what changed since the one before. Compare any two, or bring back a single deleted contact.
+
+**Standard vCard files.** Backups are ordinary .vcf files that any phone, Mac, PC, Gmail or Outlook can import.
+
+## How to back up your iPhone contacts
+- Open the app and allow access to contacts.
+- Tap **Back Up Now**.
+- Choose where to keep the file: in the app, Files, iCloud Drive, Google Drive, AirDrop or Mail.
+- Check the report. It counts every phone number, email and photo that was saved, so you know nothing was dropped.
+
+## How to export contacts to Excel or CSV
+- Open the **Export** tab and pick Excel or CSV.
+- Choose a layout, such as Google Contacts or Outlook, or pick your own columns.
+- Check the preview, then tap **Export** and send the file where you need it.
+
+## How to merge duplicate contacts
+- Open the **Duplicates** tab and tap .** Scan**.
+- Review each group side by side and pick the card to keep. Details from the other card are added to it.
+- Tap **Merge**. Changed your mind? Tap .** Undo all**, or restore the backup saved before the merge.
+
+## Price
+
+**Free.** Back up to 500 contacts, export name, phone and email, and find duplicates.
+
+**Pro, $4.99 once.** Unlimited contacts, every export column, merging with undo, compare and full history. No subscription.
+
+## Good to know
+
+On iPhone, Apple only lets apps read contact notes with special permission, so notes are not included in backups on iPhone. Every other field is. Questions? See help and support.
+
+
+---
+
+Source: https://clientlens.co/contacts-backup/support/
+
+Contacts Backup, Export, Merge
+
+# Help and support
+
+Most answers are below. If yours isn't, write to us and include your phone model. Please don't send contact files; we never need them.
+
+support@clientlens.co
+
+In the app, Settings → Contact support opens an email with your app version already filled in.
+
+## Common questions
+
+### Where are my backups stored?
+Inside the app's private storage on your phone, listed in History. To keep a copy somewhere else, open a backup and tap Share this backup, then save it to Files, iCloud Drive, Google Drive or send it to yourself.
+
+### How do I restore just one contact?
+Open History and tap a backup made before the contact was deleted or changed. Under the comparison, open the Deleted tab and tap Bring back. Or tap Restore from this backup, then Select none, and tick only that contact.
+
+### Will restoring delete anything?
+No. Restore only adds contacts that are missing and updates ones that changed. Contacts added after the backup stay. A fresh backup of your current contacts is always saved first, so you can undo a restore from History.
+
+### Why does the app show fewer contacts than cards?
+When the same person is saved in more than one account, for example iCloud and Gmail, the Contacts app links those cards and shows one contact. The app shows that same contact count, and mentions how many cards make them up.
+
+### Why aren't my notes in the backup on iPhone?
+Apple only lets apps read contact notes with a special permission that is rarely granted. Every other field is backed up. On Android, notes are included.
+
+### Can I undo a merge?
+Yes. After merging, tap Undo all. Even later, open History and restore the "Before merge" backup that was saved automatically.
+
+### What does "Possible" mean in Duplicates?
+The cards might be the same person but the app is not sure, for example two people called only "Ashley", or a shared office number. Possible matches are never merged in bulk; review each one, then tap Merge or Not a duplicate.
+
+### I bought Pro on another phone. How do I get it back?
+Sign in with the same Apple ID or Google account, open Settings in the app and tap Restore purchase.
+
+### The backup reminder doesn't arrive.
+Check that notifications are allowed for the app in your phone's Settings. In the app, Settings → Remind me to back up shows whether reminders are on and when they arrive.
+
+
+---
+
+Source: https://clientlens.co/contacts-backup/privacy/
+
+Contacts Backup, Export, Merge
+
+# Privacy policy
+
+Last updated: 20 October 2026
+
+**The short version**
+This app does not collect, send or store any of your data outside your phone. It has no account, no server and no internet access. Your contacts stay on your device unless you choose to share a file yourself.
+
+## What the app does with your contacts
+
+With your permission, the app reads the contacts on your device from every account on the phone: names, phone numbers, email addresses, postal addresses, birthdays and other dates, photos, related names, social profiles and similar fields. On Android it also reads contact notes. On iPhone it does not, because Apple only allows that with a special permission the app does not have.
+
+It uses that access only to:
+- create backup files (vCard) and exports (CSV, Excel, JSON) that you decide where to save or send;
+- show you a preview before restoring contacts from a backup;
+- find duplicate contacts and, when you confirm, merge them;
+- keep backups inside the app's private storage so you can compare and undo changes.
+
+The app changes your contacts only when you confirm a restore, a merge, a deletion of empty cards or a copy between accounts. It saves a backup of your contacts first, every time.
+
+## What leaves your device
+
+Nothing, unless you send it. When you choose a destination such as Files, iCloud Drive, Google Drive, AirDrop, Mail or Quick Share, the file goes to that app or service and its own privacy terms apply. The app contains no code that connects to the internet, and on Android it does not request internet access.
+
+## Analytics, advertising and tracking
+
+None. The app contains no analytics, advertising or crash-reporting tools. If you have turned on crash reports in your phone's settings, Apple or Google may receive them through their own systems; they never include contact data.
+
+## Notifications
+
+If you turn on backup reminders, the app schedules them on your phone. They are not sent from a server.
+
+## Purchases
+
+The one-time Pro purchase is handled by Apple's App Store or Google Play. The app only learns that the purchase exists. We never see your payment details.
+
+## How long data is kept
+
+Backups stay in the app's private storage on your device until you delete them in History, until your "Keep backups" setting removes older ones, or until you delete the app.
+
+## Children
+
+The app is not directed at children under 13 and collects no data from anyone.
+
+## Your rights
+
+Because we collect no data, we hold nothing to show, correct or delete for you. Everything stays under your control on your device.
+
+## Changes to this policy
+
+If this policy changes, the new version will be published on this page with a new date. Important changes will also be mentioned in the app's release notes.
+
+## Contact
+
+ClientLens · support@clientlens.co

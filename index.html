@@ -3,33 +3,82 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>ClientLens</title>
-<meta name="description" content="ClientLens is an independent studio making focused, easy-to-use apps.">
-<link rel="icon" href="assets/contacts-backup-icon.png">
-<link rel="stylesheet" href="assets/site.css">
+<title>ClientLens · Independent app studio</title>
+<meta name="description" content="ClientLens is an independent app studio building focused, easy-to-use apps for iPhone and Android, starting with Contacts Backup, Export, Merge.">
+<link rel="canonical" href="https://clientlens.co/">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<meta name="theme-color" content="#F6F7F4">
+<link rel="icon" href="/assets/contacts-backup-icon.png">
+<link rel="apple-touch-icon" href="/assets/contacts-backup-icon.png">
+<link rel="alternate" type="text/plain" title="Summary for AI assistants" href="/llms.txt">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="ClientLens">
+<meta property="og:title" content="ClientLens · Independent app studio">
+<meta property="og:description" content="Focused apps that do one job well, for iPhone and Android.">
+<meta property="og:url" content="https://clientlens.co/">
+<meta property="og:image" content="https://clientlens.co/assets/og-clientlens.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="ClientLens: focused apps that do one job well.">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="ClientLens · Independent app studio">
+<meta name="twitter:description" content="Focused apps that do one job well, for iPhone and Android.">
+<meta name="twitter:image" content="https://clientlens.co/assets/og-clientlens.png">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://clientlens.co/#org",
+      "name": "ClientLens",
+      "url": "https://clientlens.co/",
+      "logo": "https://clientlens.co/assets/contacts-backup-icon.png",
+      "description": "Independent app studio building focused apps for iPhone and Android.",
+      "email": "support@clientlens.co"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://clientlens.co/#site",
+      "url": "https://clientlens.co/",
+      "name": "ClientLens",
+      "publisher": { "@id": "https://clientlens.co/#org" },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Apps by ClientLens",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "url": "https://clientlens.co/contacts-backup/", "name": "Contacts Backup, Export, Merge" }
+      ]
+    }
+  ]
+}
+</script>
+<link rel="stylesheet" href="/assets/site.css">
 </head>
 <body>
 <div class="wrap">
   <header class="top">
-    <a class="brand" href="index.html"><span class="lens" aria-hidden="true"></span>ClientLens</a>
-    <nav><a href="index.html#apps">Apps</a><a href="index.html#contact">Contact</a></nav>
+    <a class="brand" href="/" aria-label="ClientLens home"><span class="lens" aria-hidden="true"></span>ClientLens</a>
+    <nav aria-label="Main"><a href="/#apps">Apps</a><a href="/#contact">Contact</a></nav>
   </header>
 
   <main>
     <h1>Focused apps that do one job well.</h1>
-    <p class="lead">ClientLens is an independent app studio. We build simple, dependable apps for everyday tasks, and we listen closely to the people who use them.</p>
+    <p class="lead">ClientLens is an independent app studio. We build simple, dependable apps for everyday tasks on iPhone and Android, and we listen closely to the people who use them.</p>
 
-    <section id="apps">
-      <p class="eyebrow">Apps</p>
+    <section id="apps" aria-labelledby="apps-title">
+      <h2 id="apps-title" class="eyebrow">Apps</h2>
       <div class="apps">
-        <a class="app" href="contacts-backup/index.html">
-          <img src="assets/contacts-backup-icon.png" alt="" width="64" height="64">
+        <a class="app" href="/contacts-backup/">
+          <img src="/assets/contacts-backup-icon.png" alt="Contacts Backup, Export, Merge app icon" width="64" height="64">
           <div>
             <div class="t">Contacts Backup, Export, Merge</div>
-            <div class="d">Back up every contact, export to Excel or CSV, and merge duplicates with undo. iPhone first, Android soon.</div>
+            <div class="d">Back up every contact, export contacts to Excel or CSV, and merge duplicate contacts with undo. iPhone first, Android soon.</div>
           </div>
         </a>
-        <div class="app soon" aria-label="More apps coming">
+        <div class="app soon">
           <div class="ph" aria-hidden="true"></div>
           <div>
             <div class="t">More on the way</div>
@@ -39,8 +88,8 @@
       </div>
     </section>
 
-    <section id="contact">
-      <h2>Contact</h2>
+    <section id="contact" aria-labelledby="contact-title">
+      <h2 id="contact-title">Contact</h2>
       <p>Questions, bugs or ideas for an app? Write to us. A real person reads every message.</p>
       <p><span class="mail">support@clientlens.co</span></p>
     </section>

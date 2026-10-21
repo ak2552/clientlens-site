@@ -1,0 +1,16 @@
+# ClientLens
+
+> ClientLens is an independent app studio that builds focused, easy-to-use apps for iPhone and Android. Contact: support@clientlens.co
+
+## Apps
+
+- [Contacts Backup, Export, Merge](https://clientlens.co/contacts-backup/): iPhone and Android app that backs up every contact to a standard vCard (.vcf) file, exports contacts to Excel, CSV or JSON, restores from a backup with a preview, and merges duplicate contacts with undo. No account and no internet access; contacts never leave the phone unless the user shares a file. Free up to 500 contacts; Pro is a one-time $4.99 in-app purchase. App Store and Google Play release coming soon.
+
+## Contacts Backup, Export, Merge
+
+- [Help and support (FAQ)](https://clientlens.co/contacts-backup/support/): where backups are stored, restoring a single contact, undoing a merge, contact versus card counts, notes on iPhone, restoring a purchase, reminders.
+- [Privacy policy](https://clientlens.co/contacts-backup/privacy/): the app collects no data; no analytics, ads or tracking; purchases handled by Apple or Google.
+
+## Optional
+
+- [Full text for AI assistants](https://clientlens.co/llms-full.txt): every page above in plain Markdown.

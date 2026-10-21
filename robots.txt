@@ -31,5 +31,16 @@ User-agent: Bingbot
 Allow: /
 User-agent: CCBot
 Allow: /
+User-agent: DuckAssistBot
+Allow: /
+User-agent: MistralAI-User
+Allow: /
+User-agent: YouBot
+Allow: /
+User-agent: Amazonbot
+Allow: /
+User-agent: Meta-ExternalAgent
+Allow: /
+# Grok (xAI) and Brave Search follow the general rule above.
 
 Sitemap: https://clientlens.co/sitemap.xml

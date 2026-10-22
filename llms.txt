@@ -4,7 +4,7 @@
 
 ## Apps
 
-- [Contacts Backup, Export, Merge](https://clientlens.co/contacts-backup/): iPhone and Android app that backs up every contact to a standard vCard (.vcf) file, exports contacts to Excel, CSV or JSON, restores from a backup with a preview, and merges duplicate contacts with undo. No account and no internet access; contacts never leave the phone unless the user shares a file. Free up to 500 contacts; Pro is a one-time $4.99 in-app purchase. App Store and Google Play release coming soon.
+- [Contacts Backup, Export, Merge](https://clientlens.co/contacts-backup/): iPhone and Android app that backs up every contact to a standard vCard (.vcf) file, exports contacts to Excel, CSV or JSON, restores from a backup with a preview, and merges duplicate contacts with undo. No account and no internet access; the developer never receives contact data. Backups stay in the app and in the user's own iCloud or Google device backup. Free up to 500 contacts; Pro is a one-time $4.99 in-app purchase. App Store and Google Play release coming soon.
 
 ## Contacts Backup, Export, Merge
 

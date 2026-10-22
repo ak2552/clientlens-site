@@ -17,7 +17,7 @@ Google Play · coming soon
 Contacts Backup, Export, Merge is an iPhone and Android app that saves a complete copy of your contacts as a standard vCard file, exports them to Excel or CSV, and cleans up duplicate contacts safely. Use it before switching phones, after a sync mistake, or whenever you want a copy of your address book that you control.
 
 **We never see your contacts.**
-No account, no server, no ads, no analytics. The app has no internet access at all. Backups are kept in the app on your phone, and are included in your phone's own iCloud or Google backup if you use one.
+No account, no server, no ads, no analytics. The app makes no network connections of its own. Backups are kept in the app on your phone, and are included in your phone's own iCloud or Google backup if you use one.
 
 ## What it does
 
@@ -51,9 +51,9 @@ No account, no server, no ads, no analytics. The app has no internet access at a
 
 ## Price
 
-**Free.** Back up to 500 contacts, export name, phone and email, and find duplicates.
+**Free.** Back up address books of up to 500 contacts, export name, phone and email, and find duplicates. Larger address books need Pro.
 
-**Pro, $4.99 once.** Unlimited contacts, every export column, merging with undo, compare and full history. No subscription.
+**Pro, one payment.** US $4.99, or the local price shown in your store. Unlimited contacts, every export column, merging with undo, compare and full history. No subscription.
 
 ## Good to know
 
@@ -100,6 +100,12 @@ The cards might be the same person but the app is not sure, for example two peop
 ### I bought Pro on another phone. How do I get it back?
 Sign in with the same Apple ID or Google account, open Settings in the app and tap Restore purchase.
 
+### How do I get a refund?
+Purchases are made through Apple or Google, so they handle refunds. On iPhone, go to reportaproblem.apple.com. On Android, open your order history in Google Play, or use the Google Play Help Center. If a refund is granted, Pro turns off the next time the app checks with the store.
+
+### Are my backups in my Google backup on Android?
+Usually, but Google keeps at most 25 MB of data per app in an Android device backup. If the app's backups add up to more than that, Android may leave the app out of your Google backup entirely. To be safe, open a backup in History, tap Share this backup and save it to Google Drive. On iPhone, iCloud backup has no such per-app limit.
+
 ### The backup reminder doesn't arrive.
 Check that notifications are allowed for the app in your phone's Settings. In the app, Settings → Remind me to back up shows whether reminders are on and when they arrive.
 
@@ -112,10 +118,10 @@ Contacts Backup, Export, Merge
 
 # Privacy policy
 
-Last updated: 22 October 2026
+Last updated: 21 October 2026
 
 **The short version**
-We never receive your contacts. The app has no account, no server and no internet access. Your contacts stay on your device, in the app's backups, and in your phone's own iCloud or Google backup if you use one. They go anywhere else only when you share a file yourself.
+We never receive your contacts. The app has no account and no server, and makes no network connections of its own. Your contacts stay on your device, in the app's backups, and in your phone's own iCloud or Google backup if you use one. They go anywhere else only when you share a file yourself.
 
 ## What the app does with your contacts
 
@@ -127,17 +133,29 @@ It uses that access only to:
 - find duplicate contacts and, when you confirm, merge them;
 - keep backups inside the app on your phone so you can compare and undo changes.
 
+When you open a .vcf file in the app, for example from Mail or Files, the app reads it on your device to show what it contains and to restore from it if you choose. It is not sent anywhere.
+
 The app changes your contacts only when you confirm a restore, a merge, a deletion of empty cards or a copy between accounts. It saves a backup of your contacts first, every time.
 
 ## What leaves your device
 
 **Your phone's own backup.** Like other app data, the app's backups are included in your iCloud or computer backup on iPhone, and in your Google backup on Android, if you have these turned on. They are stored in your own account with Apple or Google, not with us, under their privacy terms. You can turn device backup off in your phone's settings.
 
-**Files you share.** Nothing else leaves your device unless you send it. When you choose a destination such as Files, iCloud Drive, Google Drive, AirDrop, Mail or Quick Share, the file goes to that app or service and its own privacy terms apply. The app contains no code that connects to the internet, and on Android it does not request internet access.
+Google keeps at most 25 MB of data per app in an Android device backup. If the app's backups add up to more than that, Android may leave the app's data out of your Google backup entirely. To keep a copy off the phone, use **Share this backup** and save it to Google Drive or another place you choose.
+
+**Files you share.** Nothing else leaves your device unless you send it. When you choose a destination such as Files, iCloud Drive, Google Drive, AirDrop, Mail or Quick Share, the file goes to that app or service and its own privacy terms apply. The app makes no network connections of its own, and on Android it does not request internet access. Links in Settings, such as this policy, open in your web browser.
 
 ## Analytics, advertising and tracking
 
 None. The app contains no analytics, advertising or crash-reporting tools. If you have turned on crash reports in your phone's settings, Apple or Google may receive them through their own systems; they never include contact data.
+
+## When you email us
+
+If you write to support, we receive what you send: your email address, your message and anything you attach. The app's **Contact support** button adds the app version, your phone's system and the number of contacts, never the contacts themselves. Please don't attach a backup file unless we ask for one.
+
+We use these emails only to answer you and to fix problems you report. Our legal basis is our legitimate interest in answering requests you send us. We keep support emails for up to 24 months after the conversation ends, then delete them. You can ask us to delete them sooner at any time.
+
+Our email is provided by our mail service, which stores messages on our behalf.
 
 ## Notifications
 
@@ -157,7 +175,11 @@ The app is not directed at children under 13 and collects no data from anyone.
 
 ## Your rights
 
-Because we collect no data, we hold nothing to show, correct or delete for you. Everything stays under your control: on your device and in your own device backups.
+The app collects no data, so for app use we hold nothing to show, correct or delete for you. Everything stays under your control: on your device and in your own device backups.
+
+If you have emailed us, you can ask for a copy of those emails, for corrections, or for their deletion by writing to the address below. We answer within 30 days. If you are unhappy with our answer, you can complain to the data protection authority where you live (in the EU or UK, your national regulator).
+
+Users in India can raise a grievance with our grievance contact at the address below; we acknowledge it within 72 hours and resolve it within 30 days.
 
 ## Changes to this policy
 
@@ -165,4 +187,105 @@ If this policy changes, the new version will be published on this page with a ne
 
 ## Contact
 
-ClientLens · support@clientlens.co
+Publisher: ClientLens (company being formed; its registered name and address will be listed here before the app is released).
+
+Privacy and grievance contact: support@clientlens.co
+
+
+---
+
+Source: https://clientlens.co/contacts-backup/terms/
+
+Contacts Backup, Export, Merge
+
+# Terms of use
+
+Last updated: 21 October 2026
+
+**The short version**
+You can use the app for your own contacts. Keep your own copies of anything important. Purchases and refunds go through Apple or Google. We do our best, but the app is provided as it is.
+
+## Who these terms are between
+
+These terms are between you and ClientLens, the publisher of Contacts Backup, Export, Merge (the "app"). ClientLens is a company being formed; its registered name and address will be listed here before the app is released. By using the app you agree to these terms. If you got the app from the App Store, Apple's Licensed Application End User License Agreement also applies; if you got it from Google Play, Google Play's terms also apply. Where they differ, the store's terms win for anything about the store.
+
+## Using the app
+
+We give you a personal, non-transferable licence to use the app on devices you own or control, for contacts you are allowed to handle. Please don't copy, resell, or reverse engineer the app except where the law allows it.
+
+## Your contacts and your backups
+
+Your contacts belong to you. The app works on your device, and we never receive them (see the privacy policy). You are responsible for where you save or send backup and export files. Backups kept only in the app are lost if you delete the app or lose the phone without a device backup, so keep a copy somewhere else for anything you can't afford to lose: use **Share this backup** to save one to Files, iCloud Drive, Google Drive or your computer.
+
+The app always saves a backup before it changes your contacts, and shows a preview before a restore. Still, check the preview and the results. Contact sync services (iCloud, Google, Exchange) may change contacts after the app writes them, and we can't control that.
+
+## Free and Pro
+
+The free version backs up address books of up to 500 contacts, exports name, phone and email columns, and finds duplicates. Pro is a one-time in-app purchase that removes the limit and unlocks the other features listed in the app. The price is shown in your store before you buy, in your local currency.
+
+Pro is tied to your Apple ID or Google account, not to a ClientLens account. Use **Restore purchase** in the app on a new phone signed in to the same account. On iPhone, Pro can be shared with your Family Sharing group.
+
+## Refunds
+
+Payments are taken by Apple or Google, so refunds are handled by them under their policies. On iPhone, request one at reportaproblem.apple.com. On Android, use Google Play's order history or the Google Play Help Center. If a refund is granted, Pro is turned off the next time the app checks with the store. Nothing in these terms takes away refund or withdrawal rights you have under the law where you live.
+
+## Changes to the app
+
+We may update the app to fix problems, follow store rules, or add features. If we ever stop offering the app, a Pro purchase you already made keeps working on the version you have.
+
+## No warranty
+
+We work hard to make the app reliable, but it is provided "as is" and "as available", without warranties of any kind, to the extent the law allows. We don't promise it will be error-free or that every field of every contact can be read or written on every phone; for example, iPhone does not let apps read contact notes.
+
+## Limit of liability
+
+To the extent the law allows, ClientLens is not liable for indirect or consequential losses, or for loss of data you could have avoided by keeping your own backup copy. Our total liability for any claim about the app is limited to the amount you paid for it in the 12 months before the claim. Some places don't allow these limits, so they may not apply to you; your statutory consumer rights are not affected.
+
+## Governing law
+
+These terms are governed by the law of the place where ClientLens is registered, which will be stated here once the company is formed. If you are a consumer, you also keep the protection of the mandatory laws of the country where you live, and you can bring a claim in your local courts.
+
+## Changes to these terms
+
+If these terms change, the new version will be published on this page with a new date. Important changes will also be mentioned in the app's release notes.
+
+## Contact
+
+support@clientlens.co
+
+
+---
+
+Source: https://clientlens.co/contacts-backup/accessibility/
+
+Contacts Backup, Export, Merge
+
+# Accessibility
+
+Last updated: 21 October 2026
+
+**Our goal**
+Everyone should be able to back up, restore, export and merge their contacts. We aim for the app to meet WCAG 2.2 level AA on iPhone and Android.
+
+## What the app supports
+- **VoiceOver and TalkBack.** Buttons, toggles, checkboxes and choices are labelled and report their state, such as "checked" or "selected". Screen titles are announced as headings.
+- **Spoken progress.** Backups, merges and restores announce their progress and results, so you don't need to watch the screen.
+- **Larger text.** Text follows your phone's text size setting. Lists and buttons grow to fit instead of cutting words off. Tab labels grow up to one and a half times.
+- **Colour and contrast.** Text and controls meet AA contrast. Information shown in colour, such as a field that will be added during a merge, is also given in words.
+- **Touch targets.** Buttons and links are at least 44 by 44 points.
+- **Any orientation.** The app works in portrait and landscape, including on iPad.
+- **No time limits and no flashing content.**
+
+## Known limits
+- The app uses a light appearance only, even when the phone is set to dark mode.
+- Very large text sizes can make the comparison of two backups long to scroll; the content stays readable.
+
+## How we test
+
+Before each release we go through backup, restore, export and merge with VoiceOver on iPhone and TalkBack on Android, at default and at the largest text size, and check colour contrast against WCAG 2.2.
+
+## Tell us about a problem
+
+If something in the app or on this website is hard to use with your setup, please write to us and say what you were trying to do and which phone and assistive technology you use. We aim to reply within 5 working days.
+
+support@clientlens.co

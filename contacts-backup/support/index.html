@@ -56,6 +56,22 @@
       "mainEntity": [
         {
           "@type": "Question",
+          "name": "How do I move my contacts to a new phone?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Back up on the old phone, send the file to the new phone (AirDrop, Quick Share, Google Drive or email), open it there with the app, check the preview and tap Restore. Restoring is free. See the step-by-step guide at clientlens.co/contacts-backup/transfer/ for examples, including iPhone to Android."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What does “address books of up to 500 contacts” mean?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The free version backs up your whole address book when it has 500 contacts or fewer. It can't save just part of a bigger one. For example, a phone with 450 contacts backs up free; a phone with 800 contacts needs Pro, and the app says so before it starts. Restoring a backup is always free, whatever its size."
+          }
+        },
+        {
+          "@type": "Question",
           "name": "Where are my backups stored?",
           "acceptedAnswer": {
             "@type": "Answer",
@@ -139,7 +155,7 @@
           "name": "Are my backups in my Google backup on Android?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Usually, but Google keeps at most 25 MB of data per app in an Android device backup. If the app's backups add up to more than that, Android may leave the app out of your Google backup entirely. To be safe, open a backup in History, tap Share this backup and save it to Google Drive. On iPhone, iCloud backup has no such per-app limit."
+            "text": "Usually, but Google keeps at most 25 MB of data per app in an Android device backup. If the app's backups add up to more than that, Android may leave the app out of your Google backup entirely. For example, ten backups of 1,200 contacts with photos at about 11 MB each come to 110 MB, so none of them would be in the Google backup. The History tab on Android shows how much your backups use. To be safe, open a backup in History, tap Share this backup and save it to Google Drive. On iPhone, iCloud backup has no such per-app limit."
           }
         }
       ]
@@ -165,6 +181,8 @@
 
     <h2>Common questions</h2>
     <div class="faq">
+      <details><summary>How do I move my contacts to a new phone?</summary><p>Back up on the old phone, send the file to the new phone (AirDrop, Quick Share, Google Drive or email), open it there with the app, check the preview and tap Restore. Restoring is free. See the <a href="/contacts-backup/transfer/">step-by-step guide</a> for examples, including iPhone to Android.</p></details>
+      <details><summary>What does “address books of up to 500 contacts” mean?</summary><p>The free version backs up your whole address book when it has 500 contacts or fewer. It can't save just part of a bigger one. For example, a phone with 450 contacts backs up free; a phone with 800 contacts needs Pro, and the app says so before it starts. Restoring a backup is always free, whatever its size.</p></details>
       <details><summary>Where are my backups stored?</summary><p>In the app on your phone, listed in History. They are also included in your phone's own iCloud or Google backup if you use one, so they move to a new phone restored from that backup. To keep a separate copy, open a backup and tap Share this backup, then save it to Files, iCloud Drive, Google Drive or send it to yourself.</p></details>
       <details><summary>How do I restore just one contact?</summary><p>Open History and tap a backup made before the contact was deleted or changed. Under the comparison, open the Deleted tab and tap Bring back. Or tap Restore from this backup, then Select none, and tick only that contact.</p></details>
       <details><summary>Will restoring delete anything?</summary><p>No. Restore only adds contacts that are missing and updates ones that changed. Contacts added after the backup stay. A fresh backup of your current contacts is always saved first, so you can undo a restore from History.</p></details>
@@ -174,14 +192,14 @@
       <details><summary>What does "Possible" mean in Duplicates?</summary><p>The cards might be the same person but the app is not sure, for example two people called only "Ashley", or a shared office number. Possible matches are never merged in bulk; review each one, then tap Merge or Not a duplicate.</p></details>
       <details><summary>I bought Pro on another phone. How do I get it back?</summary><p>Sign in with the same Apple ID or Google account, open Settings in the app and tap Restore purchase.</p></details>
       <details><summary>How do I get a refund?</summary><p>Purchases are made through Apple or Google, so they handle refunds. On iPhone, go to reportaproblem.apple.com. On Android, open your order history in Google Play, or use the Google Play Help Center. If a refund is granted, Pro turns off the next time the app checks with the store.</p></details>
-      <details><summary>Are my backups in my Google backup on Android?</summary><p>Usually, but Google keeps at most 25 MB of data per app in an Android device backup. If the app's backups add up to more than that, Android may leave the app out of your Google backup entirely. To be safe, open a backup in History, tap Share this backup and save it to Google Drive. On iPhone, iCloud backup has no such per-app limit.</p></details>
+      <details><summary>Are my backups in my Google backup on Android?</summary><p>Usually, but Google keeps at most 25 MB of data per app in an Android device backup. If the app's backups add up to more than that, Android may leave the app out of your Google backup entirely. For example, ten backups of 1,200 contacts with photos at about 11 MB each come to 110 MB, so none of them would be in the Google backup. The History tab on Android shows how much your backups use. To be safe, open a backup in History, tap Share this backup and save it to Google Drive. On iPhone, iCloud backup has no such per-app limit.</p></details>
       <details><summary>The backup reminder doesn't arrive.</summary><p>Check that notifications are allowed for the app in your phone's Settings. In the app, Settings → Remind me to back up shows whether reminders are on and when they arrive.</p></details>
     </div>
   </main>
 
   <footer>
     <span>© 2026 ClientLens</span>
-    <span><a href="/contacts-backup/privacy/">Privacy policy</a> · <a href="/contacts-backup/terms/">Terms</a> · <a href="/contacts-backup/accessibility/">Accessibility</a> · <a href="/contacts-backup/">The app</a> · <a href="/">All apps</a></span>
+    <span><a href="/contacts-backup/transfer/">Move to a new phone</a> · <a href="/contacts-backup/privacy/">Privacy policy</a> · <a href="/contacts-backup/terms/">Terms</a> · <a href="/contacts-backup/accessibility/">Accessibility</a> · <a href="/contacts-backup/">The app</a> · <a href="/">All apps</a></span>
   </footer>
 </div>
 </body>

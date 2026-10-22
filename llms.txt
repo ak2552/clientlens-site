@@ -8,7 +8,8 @@
 
 ## Contacts Backup, Export, Merge
 
-- [Help and support (FAQ)](https://clientlens.co/contacts-backup/support/): where backups are stored, restoring a single contact, undoing a merge, contact versus card counts, notes on iPhone, restoring a purchase, refunds, Android Google backup size limit, reminders.
+- [Transfer contacts to a new phone](https://clientlens.co/contacts-backup/transfer/): step-by-step guide with examples (iPhone to iPhone, iPhone to Android, Android to iPhone, work contacts to a personal account), plus importing without the app.
+- [Help and support (FAQ)](https://clientlens.co/contacts-backup/support/): moving to a new phone, what the 500-contact free limit means, where backups are stored, restoring a single contact, undoing a merge, contact versus card counts, notes on iPhone, restoring a purchase, refunds, Android Google backup size limit, reminders.
 - [Privacy policy](https://clientlens.co/contacts-backup/privacy/): the app collects no data; no analytics, ads or tracking; purchases handled by Apple or Google; how support emails are handled.
 - [Terms of use](https://clientlens.co/contacts-backup/terms/): licence, Free and Pro, refunds through Apple and Google, warranty and liability.
 - [Accessibility](https://clientlens.co/contacts-backup/accessibility/): VoiceOver and TalkBack support, larger text, contrast, known limits, how to report a problem.

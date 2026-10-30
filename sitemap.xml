@@ -2,7 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://clientlens.co/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
+  </url>
+  <url>
+    <loc>https://clientlens.co/privacy/</loc>
+    <lastmod>2026-10-30</lastmod>
   </url>
   <url>
     <loc>https://clientlens.co/contacts-backup/</loc>
@@ -53,7 +57,7 @@
   </url>
   <url>
     <loc>https://clientlens.co/printcal/privacy/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
   </url>
   <url>
     <loc>https://clientlens.co/printcal/terms/</loc>
@@ -61,7 +65,7 @@
   </url>
   <url>
     <loc>https://clientlens.co/printcal/accessibility/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
   </url>
   <url>
     <loc>https://clientlens.co/printcal/acknowledgements/</loc>

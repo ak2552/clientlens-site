@@ -21,10 +21,14 @@
 - [How to print your iPhone calendar](https://clientlens.co/printcal/print-iphone-calendar/): the iPhone Calendar app has no print command; every way to print it, built-in options first (Mac Calendar File → Print, iCloud.com in a browser, a screenshot), then PrintCal from the phone, with the trade-offs of each.
 - [How to print Google Calendar from your phone](https://clientlens.co/printcal/print-google-calendar/): the Google Calendar app cannot print; the built-in way through calendar.google.com (Settings gear → Print, Schedule view for details), the same from a phone browser in desktop mode, then PrintCal on Android and iPhone.
 - [Help and support (FAQ)](https://clientlens.co/printcal/support/): calendar permission and Full Access on iPhone, a missing calendar, an empty month, where overflow events go, printers, Letter or A4, cut-off prints, where the PDF goes, free versus Pro, Family Sharing, restoring a purchase, refunds, languages.
-- [Privacy policy](https://clientlens.co/printcal/privacy/): the app collects no data; read-only calendar access; no internet access, analytics or ads; purchases handled by Apple or Google; how support emails are handled.
+- [Privacy policy](https://clientlens.co/printcal/privacy/): the app collects no data; read-only calendar access; no internet access, analytics or ads; what settings stay on the phone; no tracking (Do Not Track and Global Privacy Control signals change nothing because nothing is tracked); purchases handled by Apple or Google; how support emails are handled.
 - [Terms of use](https://clientlens.co/printcal/terms/): licence, Free and Pro, refunds through Apple and Google, warranty and liability.
-- [Accessibility](https://clientlens.co/printcal/accessibility/): VoiceOver and TalkBack, larger text, dark mode, Large Print pages with a low-vision font, black-and-white printing, known limits, how to report a problem.
+- [Accessibility](https://clientlens.co/printcal/accessibility/): VoiceOver and TalkBack labels, larger text, Large Print pages with a low-vision font, black-and-white printing, known limits (light appearance only; the page preview is not yet readable by screen readers), the VoiceOver and TalkBack checks planned before launch, how to report a problem.
 - [Open-source acknowledgements](https://clientlens.co/printcal/acknowledgements/): fonts (SIL Open Font License) and packages included in the app with their licences.
+
+## This website
+
+- [Website privacy](https://clientlens.co/privacy/): clientlens.co sets no cookies, runs no analytics and loads no third-party scripts; it is hosted on GitHub Pages, which keeps standard server logs (IP address, browser) for security under GitHub's own policy. Each app's own privacy policy is on that app's page.
 
 ## Optional
 

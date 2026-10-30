@@ -5,6 +5,50 @@
 
 ---
 
+Source: https://clientlens.co/privacy/
+
+ClientLens
+
+# This website
+
+Last updated: 30 October 2026
+
+**The short version**
+clientlens.co is a plain, static website. It sets no cookies, runs no analytics and loads nothing from third parties. The only record of your visit is the standard server log kept by our host, GitHub Pages.
+
+## What this website does not do
+
+- **No cookies.** The site stores nothing in your browser.
+- **No analytics.** We do not count visitors, measure clicks or build profiles.
+- **No third-party scripts, fonts or embeds.** Every page is made of our own HTML and CSS, using the fonts already on your device. Your browser contacts no other company to show it.
+- **No forms and no accounts.** The only way to reach us is by email, which you send from your own mail app.
+
+## Hosting and server logs
+
+The site is hosted on GitHub Pages, a service of GitHub, Inc. Like any web host, GitHub keeps standard server logs of visits, which include your IP address and browser type, to keep the service secure and running. GitHub holds these logs under its own policy, not ours; see [GitHub's privacy statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement) and its [note on GitHub Pages data collection](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages#data-collection). We do not receive or look at these logs.
+
+## Do Not Track
+
+This website does not track you over time or across other websites, and lets no third party do so. Browser "Do Not Track" and Global Privacy Control signals are therefore treated the same way for everyone: there is no tracking to turn off.
+
+## When you email us
+
+If you write to us, we receive your email address, your message and anything you attach, and we use them only to answer you. How long we keep support emails and what rights you have over them are set out in each app's own privacy policy, which is linked from that app's page.
+
+## The apps
+
+This note covers the website only. Each ClientLens app has its own privacy policy, which describes what that app does with your data. You will find it on the app's page on this site, inside the app, and on its App Store and Google Play listing.
+
+## Changes
+
+If this note changes, the new version will be published on this page with a new date.
+
+## Contact
+
+support@clientlens.co
+
+---
+
 Source: https://clientlens.co/contacts-backup/
 
 # Contacts Backup, Export, Merge
@@ -716,7 +760,7 @@ PrintCal: Print Your Calendar
 
 # Privacy policy
 
-Last updated: 29 October 2026
+Last updated: 30 October 2026
 
 **The short version**
 Nothing leaves your phone. PrintCal has no account, no server, no analytics, no ads and no internet access of its own. It reads your calendars on the phone to lay them out on a page, and never changes them. Its App Store privacy label and Google Play Data safety form both say: no data collected.
@@ -729,7 +773,7 @@ The reading happens on the phone. Events are kept in memory only while a page is
 
 ## What the app keeps
 
-Only your choices: paper size, view, style, which calendars are ticked, your presets, how many times you have printed, and the code of the last error. Never an event's title, place, notes or link.
+Only your choices: paper size, view, style, which calendars are ticked, your presets and the names you give them, the custom page title you type, how many times you have printed, the date you first opened the app, the date the app last asked you for a rating, and the code of the last error. These are stored in the app's settings file on the device only. Never an event's title, place, notes or link.
 
 The PDF you print or share is written to a temporary folder on the phone that is emptied the next time the app starts. Print, Share and Save hand it only to the phone's print dialog or to the app you pick, such as Files, Google Drive or Mail; that app's own privacy terms then apply.
 
@@ -741,6 +785,10 @@ Nothing. The app has no internet access of its own: on Android it blocks the int
 
 Links in Settings, such as this policy, open in your web browser. The browser, not the app, makes that connection.
 
+## Do Not Track
+
+Neither the app nor this website tracks you over time or across other websites or apps, and neither lets any third party do so. Browser "Do Not Track" and Global Privacy Control signals are therefore treated the same way for everyone: there is no tracking to turn off. (California's online privacy law, CalOPPA, asks us to say this plainly.)
+
 ## Purchases
 
 Pro is a one-time purchase handled by Apple's App Store or Google Play. The store takes the payment and keeps the receipt; the app only asks the store on the phone whether Pro is owned, so that it works on every device signed in to the same account or, on iPhone, the same Family Sharing group. We never see your payment details, and there is no ClientLens server involved.
@@ -751,7 +799,7 @@ If you write to support, we receive what you send: your email address, your mess
 
 We use these emails only to answer you and to fix problems you report. Our legal basis is our legitimate interest in answering requests you send us. We keep support emails for up to 24 months after the conversation ends, then delete them. You can ask us to delete them sooner at any time.
 
-Our email is provided by our mail service, which stores messages on our behalf.
+Our email is handled by our email provider, which stores messages on our behalf.
 
 ## Notifications
 
@@ -769,7 +817,7 @@ The app is not directed at children under 13 and collects no data from anyone.
 
 The app collects no data, so for app use we hold nothing to show, correct or delete for you. Everything stays under your control, on your phone.
 
-If you have emailed us, you can ask for a copy of those emails, for corrections, or for their deletion by writing to the address below. We answer within 30 days. If you are unhappy with our answer, you can complain to the data protection authority where you live (in the EU or UK, your national regulator).
+If you have emailed us, you can ask for a copy of those emails, for corrections, or for their deletion, and you can object to our use of them, by writing to the address below. We answer within 30 days. If you are unhappy with our answer, you can complain to the data protection authority where you live (in the EU or UK, your national regulator).
 
 Users in India can raise a grievance with our grievance contact at the address below; we acknowledge it within 72 hours and resolve it within 30 days.
 
@@ -852,19 +900,18 @@ PrintCal: Print Your Calendar
 
 # Accessibility
 
-Last updated: 29 October 2026
+Last updated: 30 October 2026
 
 **Our goal**
 Everyone should be able to print their calendar, and the printed page should be readable by the people it is for. We aim for the app to meet WCAG 2.2 level AA on iPhone and Android.
 
 ## The app
 
-- **VoiceOver and TalkBack.** Buttons, toggles, checkboxes and choices are labelled and report their state, such as "checked" or "selected". Screen titles are announced as headings.
-- **Larger text.** The app's own text follows your phone's text size setting, up to the largest accessibility size. Lists and buttons grow to fit instead of cutting words off.
-- **Dark mode.** The app follows your phone's appearance. The paper in the preview stays white, as it will print; the area around it darkens.
+- **VoiceOver and TalkBack.** Buttons, toggles, checkboxes and choices are labelled and report their state, such as "checked" or "selected". Screen titles are announced as headings. On iPhone, error messages are read out by VoiceOver when they appear.
+- **Larger text.** The app's own text follows your phone's text size setting, and screens, including the Pro screen, scroll to fit. A few small labels, such as the toolbar and the page counter, may be shortened at the largest sizes.
 - **Colour and contrast.** Text and controls meet AA contrast. Nothing is shown by colour alone: a calendar's colour always has a name next to it.
-- **Touch targets.** Buttons and links are at least 44 by 44 points (48 dp on Android), with a visible focus ring for keyboard and switch control.
-- **Reduced motion.** With reduced motion on, the preview updates without animation.
+- **Touch targets.** Buttons and links are at least 44 × 44 points.
+- **No animation.** The preview has no animations; it simply redraws when you change a setting.
 - **Any orientation.** The app works in portrait and landscape, including on iPad.
 - **No time limits and no flashing content.**
 
@@ -873,17 +920,24 @@ Everyone should be able to print their calendar, and the printed page should be 
 - **Large Print preset.** One tap sets event text to 16 pt bold and day numbers to 22 pt, in black on white, using Atkinson Hyperlegible, a typeface designed for readers with low vision.
 - **Text size and bold.** Four sizes with a live preview, and auto-fit, which grows text to fill the space a light month leaves free.
 - **Black-and-white printing.** Calendars are told apart by outline, solid and hatched styles and by their initial, with a legend, so a mono printer or a reader who cannot tell colours apart loses nothing.
-- **Nothing cut off.** When a day is too full, the extra events continue on an overflow page rather than being dropped.
+- **No event is dropped.** When a day is full, events continue on an extra page (on by default). A title too long for its space ends with "…".
 
 ## Known limits
 
+- Screen readers can't yet read the page preview itself; the events are read in your phone's calendar app. An accessible list of the events on the page is planned.
+- The app uses a light appearance only, even when the phone is set to dark mode. The paper in the preview is white, as it will print.
 - The page preview does not grow with your phone's text size, because it shows the page at its printed proportions. Pinch to zoom in on it, or change the page's own text size in Style.
 - The PDF is a printed layout. It is not a tagged PDF, so screen readers on a computer may not read it in order.
 - The page's own small labels, such as "All day" and "+N more", are in English in this release.
 
 ## How we test
 
-Before each release we go through calendar access, the month, week and list pages, Style and Print with VoiceOver on iPhone and TalkBack on Android, at default and at the largest text size, in light and dark mode, and check colour contrast against WCAG 2.2.
+Before launch we will go through calendar access, the month, week and list pages, Style and Print with VoiceOver on iPhone and TalkBack on Android, at default and at the largest text size, and check colour contrast against WCAG 2.2. This page will list the date of each check once it has been done.
+
+- **29 October 2026:** review of the app's labels, roles, state announcements, text sizes and touch targets. This was a code review, not a VoiceOver or TalkBack pass.
+- **VoiceOver on iPhone:** before launch (date to be added here).
+- **TalkBack on Android:** before launch (date to be added here).
+- **Largest text sizes on both:** before launch (date to be added here).
 
 ## Tell us about a problem
 

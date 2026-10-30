@@ -909,8 +909,8 @@ Everyone should be able to print their calendar, and the printed page should be 
 
 - **VoiceOver and TalkBack.** Buttons, toggles, checkboxes and choices are labelled and report their state, such as "checked" or "selected". Screen titles are announced as headings. On iPhone, error messages are read out by VoiceOver when they appear.
 - **Larger text.** The app's own text follows your phone's text size setting, and screens, including the Pro screen, scroll to fit. A few small labels, such as the toolbar and the page counter, may be shortened at the largest sizes.
-- **Colour and contrast.** Text and controls meet AA contrast. Nothing is shown by colour alone: a calendar's colour always has a name next to it.
-- **Touch targets.** Buttons and links are at least 44 × 44 points.
+- **Colour and contrast.** Text and controls are designed to meet WCAG AA contrast; we will confirm it on devices before launch. In the app, nothing is shown by colour alone: a calendar's colour always has its name next to it.
+- **Touch targets.** Buttons and links are designed to be at least 44 × 44 points.
 - **No animation.** The preview has no animations; it simply redraws when you change a setting.
 - **Any orientation.** The app works in portrait and landscape, including on iPad.
 - **No time limits and no flashing content.**

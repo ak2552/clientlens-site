@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Accessibility · PrintCal: Print Your Calendar</title>
+<meta name="description" content="Accessibility of PrintCal: VoiceOver and TalkBack, larger text, dark mode, Large Print pages in a low-vision font, black-and-white printing, known limits.">
+<link rel="canonical" href="https://clientlens.co/printcal/accessibility/">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<meta name="theme-color" content="#F6F7F4">
+<link rel="icon" href="/assets/printcal-icon.png">
+<link rel="apple-touch-icon" href="/assets/printcal-icon.png">
+<link rel="alternate" type="text/plain" title="Summary for AI assistants" href="/llms.txt">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="ClientLens">
+<meta property="og:title" content="Accessibility · PrintCal: Print Your Calendar">
+<meta property="og:description" content="Accessibility of PrintCal: VoiceOver and TalkBack labels, larger text, dark mode, Large Print pages with a low-vision font, black-and-white printing, known limits and how to report a problem.">
+<meta property="og:url" content="https://clientlens.co/printcal/accessibility/">
+<meta property="og:image" content="https://clientlens.co/assets/og-printcal.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Accessibility · PrintCal: Print Your Calendar">
+<meta name="twitter:description" content="Accessibility of PrintCal: VoiceOver and TalkBack labels, larger text, dark mode, Large Print pages with a low-vision font, black-and-white printing, known limits and how to report a problem.">
+<meta name="twitter:image" content="https://clientlens.co/assets/og-printcal.png">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "ClientLens", "item": "https://clientlens.co/" },
+        { "@type": "ListItem", "position": 2, "name": "PrintCal: Print Your Calendar", "item": "https://clientlens.co/printcal/" },
+        { "@type": "ListItem", "position": 3, "name": "Accessibility", "item": "https://clientlens.co/printcal/accessibility/" }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://clientlens.co/printcal/accessibility/",
+      "url": "https://clientlens.co/printcal/accessibility/",
+      "name": "Accessibility, PrintCal: Print Your Calendar",
+      "dateModified": "2026-10-29",
+      "about": { "@id": "https://clientlens.co/printcal/#app" },
+      "publisher": { "@id": "https://clientlens.co/#org" }
+    }
+  ]
+}
+</script>
+<link rel="stylesheet" href="/assets/site.css">
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <a class="brand" href="/" aria-label="ClientLens home"><span class="lens" aria-hidden="true"></span>ClientLens</a>
+    <nav aria-label="PrintCal"><a href="/printcal/">The app</a><a href="/printcal/support/">Support</a></nav>
+  </header>
+
+  <main class="doc">
+    <p class="eyebrow">PrintCal: Print Your Calendar</p>
+    <h1>Accessibility</h1>
+    <p class="meta">Last updated: 29 October 2026</p>
+
+    <div class="promise">
+      <strong>Our goal</strong>
+      Everyone should be able to print their calendar, and the printed page should be readable by the people it is for. We aim for the app to meet WCAG 2.2 level AA on iPhone and Android.
+    </div>
+
+    <h2>The app</h2>
+    <ul>
+      <li><b>VoiceOver and TalkBack.</b> Buttons, toggles, checkboxes and choices are labelled and report their state, such as "checked" or "selected". Screen titles are announced as headings.</li>
+      <li><b>Larger text.</b> The app's own text follows your phone's text size setting, up to the largest accessibility size. Lists and buttons grow to fit instead of cutting words off.</li>
+      <li><b>Dark mode.</b> The app follows your phone's appearance. The paper in the preview stays white, as it will print; the area around it darkens.</li>
+      <li><b>Colour and contrast.</b> Text and controls meet AA contrast. Nothing is shown by colour alone: a calendar's colour always has a name next to it.</li>
+      <li><b>Touch targets.</b> Buttons and links are at least 44 by 44 points (48 dp on Android), with a visible focus ring for keyboard and switch control.</li>
+      <li><b>Reduced motion.</b> With reduced motion on, the preview updates without animation.</li>
+      <li><b>Any orientation.</b> The app works in portrait and landscape, including on iPad.</li>
+      <li><b>No time limits and no flashing content.</b></li>
+    </ul>
+
+    <h2>The printed page</h2>
+    <ul>
+      <li><b>Large Print preset.</b> One tap sets event text to 16 pt bold and day numbers to 22 pt, in black on white, using Atkinson Hyperlegible, a typeface designed for readers with low vision.</li>
+      <li><b>Text size and bold.</b> Four sizes with a live preview, and auto-fit, which grows text to fill the space a light month leaves free.</li>
+      <li><b>Black-and-white printing.</b> Calendars are told apart by outline, solid and hatched styles and by their initial, with a legend, so a mono printer or a reader who cannot tell colours apart loses nothing.</li>
+      <li><b>Nothing cut off.</b> When a day is too full, the extra events continue on an overflow page rather than being dropped.</li>
+    </ul>
+
+    <h2>Known limits</h2>
+    <ul>
+      <li>The page preview does not grow with your phone's text size, because it shows the page at its printed proportions. Pinch to zoom in on it, or change the page's own text size in Style.</li>
+      <li>The PDF is a printed layout. It is not a tagged PDF, so screen readers on a computer may not read it in order.</li>
+      <li>The page's own small labels, such as "All day" and "+N more", are in English in this release.</li>
+    </ul>
+
+    <h2>How we test</h2>
+    <p>Before each release we go through calendar access, the month, week and list pages, Style and Print with VoiceOver on iPhone and TalkBack on Android, at default and at the largest text size, in light and dark mode, and check colour contrast against WCAG 2.2.</p>
+
+    <h2>Tell us about a problem</h2>
+    <p>If something in the app, on a printed page or on this website is hard to use with your setup, please write to us and say what you were trying to do and which phone and assistive technology you use. We aim to reply within 5 working days.</p>
+    <p><span class="mail">support@clientlens.co</span></p>
+  </main>
+
+  <footer>
+    <span>© 2026 ClientLens</span>
+    <span><a href="/printcal/support/">Support</a> · <a href="/printcal/privacy/">Privacy policy</a> · <a href="/printcal/terms/">Terms</a> · <a href="/printcal/accessibility/">Accessibility</a> · <a href="/printcal/">The app</a></span>
+  </footer>
+</div>
+</body>
+</html>

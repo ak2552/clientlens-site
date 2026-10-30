@@ -34,20 +34,23 @@ No account, no server, no ads, no analytics. The app makes no network connection
 **Standard vCard files.** Backups are ordinary .vcf files that any phone, Mac, PC, Gmail or Outlook can import.
 
 ## How to back up your iPhone contacts
+
 - Open the app and allow access to contacts.
 - Tap **Back Up Now**.
 - Choose where to keep the file: in the app, Files, iCloud Drive, Google Drive, AirDrop or Mail.
 - Check the report. It counts every phone number, email and photo that was saved, so you know nothing was dropped.
 
 ## How to export contacts to Excel or CSV
+
 - Open the **Export** tab and pick Excel or CSV.
 - Choose a layout, such as Google Contacts or Outlook, or pick your own columns.
 - Check the preview, then tap **Export** and send the file where you need it.
 
 ## How to merge duplicate contacts
-- Open the **Duplicates** tab and tap .** Scan**.
+
+- Open the **Duplicates** tab and tap **Scan**.
 - Review each group side by side and pick the card to keep. Details from the other card are added to it.
-- Tap **Merge**. Changed your mind? Tap .** Undo all**, or restore the backup saved before the merge.
+- Tap **Merge**. Changed your mind? Tap **Undo all**, or restore the backup saved before the merge.
 
 ## Price
 
@@ -57,73 +60,11 @@ No account, no server, no ads, no analytics. The app makes no network connection
 
 ## Moving to a new phone?
 
-Follow the step-by-step guide to transfer contacts to a new phone, with examples for iPhone to Android, Android to iPhone and leaving a job.
+Follow the [step-by-step guide to transfer contacts to a new phone](https://clientlens.co/contacts-backup/transfer/), with examples for iPhone to Android, Android to iPhone and leaving a job.
 
 ## Good to know
 
-On iPhone, Apple only lets apps read contact notes with special permission, so notes are not included in backups on iPhone. Every other field is. Questions? See help and support.
-
-
----
-
-Source: https://clientlens.co/contacts-backup/transfer/
-
-Contacts Backup, Export, Merge
-
-# Transfer contacts to a new phone
-
-Last updated: 22 October 2026
-
-**The short version**
-Make a backup on the old phone, send the file to the new phone, open it there with the app, check the preview, and tap Restore. Nothing is uploaded to us at any step.
-
-## Before you start
-- **Install the app on the old phone.** That is where the backup is made.
-- **Check the size of your address book.** The free version backs up address books of up to 500 contacts. For example, a phone with 450 contacts is free; a phone with 800 contacts needs Pro on the old phone to make the backup. The app tells you before you start.
-- **Restoring is always free**, whatever the size, so the new phone never needs Pro just to bring contacts in.
-- **Already synced?** If all your contacts are in iCloud (iPhone to iPhone) or in your Google account (Android to Android), signing in on the new phone may bring them across on its own. A backup is still the safest way to make sure nothing is missed, and it is the only way across between iPhone and Android, or for contacts saved only "On My iPhone" or on the phone itself.
-
-## Step by step
-- **Back up the old phone.** Open the app and tap .** Back Up Now**. Wait for the report; it counts the phone numbers, emails and photos that were saved.
-- **Send the backup file to the new phone.** Under .** Save to**, pick the easiest way:
-- **AirDrop**: iPhone to iPhone, when both phones are next to each other.
-- **Quick Share**: Android to Android.
-- **Files**: save to iCloud Drive or Google Drive, then open it on the new phone. Works between iPhone and Android.
-- **Mail**: email it to yourself. Fine for small address books; a book with many photos may be too big to attach.
-- **Open the file on the new phone.** Install the app on the new phone. Tap .** Restore from a backup** (on Android, .** Restore**), then .** Browse Files** and pick the .vcf file. Or tap the file in AirDrop, Mail or Drive and choose the app.
-- **Check the preview.** It shows how many contacts will be added and which ones already match. Untick anyone you don't want to bring.
-- **Pick where they go.** Under .** Add them back to**, choose the account that should keep them, usually iCloud on iPhone or your Google account on Android, so they also sync to your other devices.
-- **Tap Restore.** The new phone's current contacts are backed up first, so you can undo from .** History** if something looks wrong.
-
-## Examples
-
-iPhone to iPhone
-Maya has 320 contacts on her old iPhone, some saved only "On My iPhone". She taps **Back Up Now**, chooses .** AirDrop** and sends the file to her new iPhone. On the new iPhone she taps the file, chooses the app, picks **iCloud** under .** Add them back to** and taps .** Restore 320 contacts**. All 320 are now in iCloud, including the ones that were never synced before.
-
-iPhone to Android
-Arjun is moving from an iPhone with 640 contacts to an Android phone. 640 is over the free limit, so he unlocks Pro on the iPhone and taps **Back Up Now**, then .** Files**, and saves the file to Google Drive. On the Android phone he installs the app (restoring is free), taps .** Restore**, .** Browse files**, and picks the file from Drive. He chooses his Google account so the contacts also appear in Gmail, and taps .** Restore**.
-
-Android to iPhone
-Lena's Android phone has 410 contacts. Quick Share doesn't reach an iPhone, so she chooses **Files** and saves the backup to Google Drive (or emails it to herself with .** Gmail**). On the iPhone she opens the file from the Drive app or Mail, chooses the app, picks **iCloud** and restores.
-
-Leaving a job: work contacts to your own account
-Sam's work Exchange account holds 150 contacts that will disappear when the employer removes the account. In the app, Sam taps the accounts line on Home (or Settings, then Accounts and groups). The work account shows how many contacts exist only there, with a button to copy them to the personal account. Contacts already saved in both places are not copied twice. Do this before your last day.
-
-## Without the app on the new phone
-
-A backup is an ordinary .vcf file, so the new phone can also import it directly. You won't get the preview or the duplicate check, so contacts that are already on the new phone may appear twice.
-- **iPhone:** tap the .vcf file in Files, Mail or Messages, then tap .** Add All Contacts**.
-- **Android:** in the Contacts app, open .** Fix & manage** and choose .** Import from file**, then pick the .vcf file.
-
-If you end up with duplicates, the app's **Duplicates** tab finds them and lets you merge them, with undo.
-
-## Good to know
-- **Notes on iPhone:** Apple doesn't let apps read contact notes, so a backup made on an iPhone doesn't include them. Backups made on Android do.
-- **Keep the old phone until you've checked.** Open a few contacts on the new phone, including some with photos, before you reset the old one.
-- **Keep a copy.** Save one backup to iCloud Drive, Google Drive or your computer. It is useful the next time you change phones too.
-
-Stuck? See help and support.
-
+On iPhone, Apple only lets apps read contact notes with special permission, so notes are not included in backups on iPhone. Every other field is. Questions? See [help and support](https://clientlens.co/contacts-backup/support/).
 
 ---
 
@@ -141,45 +82,31 @@ In the app, Settings → Contact support opens an email with your app version al
 
 ## Common questions
 
-### How do I move my contacts to a new phone?
-Back up on the old phone, send the file to the new phone (AirDrop, Quick Share, Google Drive or email), open it there with the app, check the preview and tap Restore. Restoring is free. See the step-by-step guide for examples, including iPhone to Android.
+**How do I move my contacts to a new phone?** Back up on the old phone, send the file to the new phone (AirDrop, Quick Share, Google Drive or email), open it there with the app, check the preview and tap Restore. Restoring is free. See the [step-by-step guide](https://clientlens.co/contacts-backup/transfer/) for examples, including iPhone to Android.
 
-### What does “address books of up to 500 contacts” mean?
-The free version backs up your whole address book when it has 500 contacts or fewer. It can't save just part of a bigger one. For example, a phone with 450 contacts backs up free; a phone with 800 contacts needs Pro, and the app says so before it starts. Restoring a backup is always free, whatever its size.
+**What does “address books of up to 500 contacts” mean?** The free version backs up your whole address book when it has 500 contacts or fewer. It can't save just part of a bigger one. For example, a phone with 450 contacts backs up free; a phone with 800 contacts needs Pro, and the app says so before it starts. Restoring a backup is always free, whatever its size.
 
-### Where are my backups stored?
-In the app on your phone, listed in History. They are also included in your phone's own iCloud or Google backup if you use one, so they move to a new phone restored from that backup. To keep a separate copy, open a backup and tap Share this backup, then save it to Files, iCloud Drive, Google Drive or send it to yourself.
+**Where are my backups stored?** In the app on your phone, listed in History. They are also included in your phone's own iCloud or Google backup if you use one, so they move to a new phone restored from that backup. To keep a separate copy, open a backup and tap Share this backup, then save it to Files, iCloud Drive, Google Drive or send it to yourself.
 
-### How do I restore just one contact?
-Open History and tap a backup made before the contact was deleted or changed. Under the comparison, open the Deleted tab and tap Bring back. Or tap Restore from this backup, then Select none, and tick only that contact.
+**How do I restore just one contact?** Open History and tap a backup made before the contact was deleted or changed. Under the comparison, open the Deleted tab and tap Bring back. Or tap Restore from this backup, then Select none, and tick only that contact.
 
-### Will restoring delete anything?
-No. Restore only adds contacts that are missing and updates ones that changed. Contacts added after the backup stay. A fresh backup of your current contacts is always saved first, so you can undo a restore from History.
+**Will restoring delete anything?** No. Restore only adds contacts that are missing and updates ones that changed. Contacts added after the backup stay. A fresh backup of your current contacts is always saved first, so you can undo a restore from History.
 
-### Why does the app show fewer contacts than cards?
-When the same person is saved in more than one account, for example iCloud and Gmail, the Contacts app links those cards and shows one contact. The app shows that same contact count, and mentions how many cards make them up.
+**Why does the app show fewer contacts than cards?** When the same person is saved in more than one account, for example iCloud and Gmail, the Contacts app links those cards and shows one contact. The app shows that same contact count, and mentions how many cards make them up.
 
-### Why aren't my notes in the backup on iPhone?
-Apple only lets apps read contact notes with a special permission that is rarely granted. Every other field is backed up. On Android, notes are included.
+**Why aren't my notes in the backup on iPhone?** Apple only lets apps read contact notes with a special permission that is rarely granted. Every other field is backed up. On Android, notes are included.
 
-### Can I undo a merge?
-Yes. After merging, tap Undo all. Even later, open History and restore the "Before merge" backup that was saved automatically.
+**Can I undo a merge?** Yes. After merging, tap Undo all. Even later, open History and restore the "Before merge" backup that was saved automatically.
 
-### What does "Possible" mean in Duplicates?
-The cards might be the same person but the app is not sure, for example two people called only "Ashley", or a shared office number. Possible matches are never merged in bulk; review each one, then tap Merge or Not a duplicate.
+**What does "Possible" mean in Duplicates?** The cards might be the same person but the app is not sure, for example two people called only "Ashley", or a shared office number. Possible matches are never merged in bulk; review each one, then tap Merge or Not a duplicate.
 
-### I bought Pro on another phone. How do I get it back?
-Sign in with the same Apple ID or Google account, open Settings in the app and tap Restore purchase.
+**I bought Pro on another phone. How do I get it back?** Sign in with the same Apple ID or Google account, open Settings in the app and tap Restore purchase.
 
-### How do I get a refund?
-Purchases are made through Apple or Google, so they handle refunds. On iPhone, go to reportaproblem.apple.com. On Android, open your order history in Google Play, or use the Google Play Help Center. If a refund is granted, Pro turns off the next time the app checks with the store.
+**How do I get a refund?** Purchases are made through Apple or Google, so they handle refunds. On iPhone, go to reportaproblem.apple.com. On Android, open your order history in Google Play, or use the Google Play Help Center. If a refund is granted, Pro turns off the next time the app checks with the store.
 
-### Are my backups in my Google backup on Android?
-Usually, but Google keeps at most 25 MB of data per app in an Android device backup. If the app's backups add up to more than that, Android may leave the app out of your Google backup entirely. For example, ten backups of 1,200 contacts with photos at about 11 MB each come to 110 MB, so none of them would be in the Google backup. The History tab on Android shows how much your backups use. To be safe, open a backup in History, tap Share this backup and save it to Google Drive. On iPhone, iCloud backup has no such per-app limit.
+**Are my backups in my Google backup on Android?** Usually, but Google keeps at most 25 MB of data per app in an Android device backup. If the app's backups add up to more than that, Android may leave the app out of your Google backup entirely. For example, ten backups of 1,200 contacts with photos at about 11 MB each come to 110 MB, so none of them would be in the Google backup. The History tab on Android shows how much your backups use. To be safe, open a backup in History, tap Share this backup and save it to Google Drive. On iPhone, iCloud backup has no such per-app limit.
 
-### The backup reminder doesn't arrive.
-Check that notifications are allowed for the app in your phone's Settings. In the app, Settings → Remind me to back up shows whether reminders are on and when they arrive.
-
+**The backup reminder doesn't arrive.** Check that notifications are allowed for the app in your phone's Settings. In the app, Settings → Remind me to back up shows whether reminders are on and when they arrive.
 
 ---
 
@@ -199,6 +126,7 @@ We never receive your contacts. The app has no account and no server, and makes 
 With your permission, the app reads the contacts on your device from every account on the phone: names, phone numbers, email addresses, postal addresses, birthdays and other dates, photos, related names, social profiles and similar fields. On Android it also reads contact notes. On iPhone it does not, because Apple only allows that with a special permission the app does not have.
 
 It uses that access only to:
+
 - create backup files (vCard) and exports (CSV, Excel, JSON) that you decide where to save or send;
 - show you a preview before restoring contacts from a backup;
 - find duplicate contacts and, when you confirm, merge them;
@@ -262,7 +190,6 @@ Publisher: ClientLens (company being formed; its registered name and address wil
 
 Privacy and grievance contact: support@clientlens.co
 
-
 ---
 
 Source: https://clientlens.co/contacts-backup/terms/
@@ -286,7 +213,7 @@ We give you a personal, non-transferable licence to use the app on devices you o
 
 ## Your contacts and your backups
 
-Your contacts belong to you. The app works on your device, and we never receive them (see the privacy policy). You are responsible for where you save or send backup and export files. Backups kept only in the app are lost if you delete the app or lose the phone without a device backup, so keep a copy somewhere else for anything you can't afford to lose: use **Share this backup** to save one to Files, iCloud Drive, Google Drive or your computer.
+Your contacts belong to you. The app works on your device, and we never receive them (see the [privacy policy](https://clientlens.co/contacts-backup/privacy/)). You are responsible for where you save or send backup and export files. Backups kept only in the app are lost if you delete the app or lose the phone without a device backup, so keep a copy somewhere else for anything you can't afford to lose: use **Share this backup** to save one to Files, iCloud Drive, Google Drive or your computer.
 
 The app always saves a backup before it changes your contacts, and shows a preview before a restore. Still, check the preview and the results. Contact sync services (iCloud, Google, Exchange) may change contacts after the app writes them, and we can't control that.
 
@@ -324,7 +251,6 @@ If these terms change, the new version will be published on this page with a new
 
 support@clientlens.co
 
-
 ---
 
 Source: https://clientlens.co/contacts-backup/accessibility/
@@ -339,6 +265,7 @@ Last updated: 21 October 2026
 Everyone should be able to back up, restore, export and merge their contacts. We aim for the app to meet WCAG 2.2 level AA on iPhone and Android.
 
 ## What the app supports
+
 - **VoiceOver and TalkBack.** Buttons, toggles, checkboxes and choices are labelled and report their state, such as "checked" or "selected". Screen titles are announced as headings.
 - **Spoken progress.** Backups, merges and restores announce their progress and results, so you don't need to watch the screen.
 - **Larger text.** Text follows your phone's text size setting. Lists and buttons grow to fit instead of cutting words off. Tab labels grow up to one and a half times.
@@ -348,6 +275,7 @@ Everyone should be able to back up, restore, export and merge their contacts. We
 - **No time limits and no flashing content.**
 
 ## Known limits
+
 - The app uses a light appearance only, even when the phone is set to dark mode.
 - Very large text sizes can make the comparison of two backups long to scroll; the content stays readable.
 
@@ -360,3 +288,705 @@ Before each release we go through backup, restore, export and merge with VoiceOv
 If something in the app or on this website is hard to use with your setup, please write to us and say what you were trying to do and which phone and assistive technology you use. We aim to reply within 5 working days.
 
 support@clientlens.co
+
+---
+
+Source: https://clientlens.co/contacts-backup/acknowledgements/
+
+Contacts Backup, Export, Merge
+
+# Open-source acknowledgements
+
+Last updated: 21 October 2026
+
+The app is built with open-source software. We are grateful to its authors. This page lists every package included in the app with its licence, as the licences ask. The full licence texts are below the list; each package's copyright notice is in its own source distribution on [npmjs.com](https://www.npmjs.com/).
+
+Where a package is offered under a choice of licences, we use it under the first one listed that is not GPL. Icons are Ionicons (MIT).
+
+## MIT (475)
+
+2g 1.0.1, @babel/code-frame 7.29.7, @babel/compat-data 7.29.7, @babel/core 7.29.7, @babel/generator 7.29.8, @babel/helper-annotate-as-pure 7.29.7, @babel/helper-compilation-targets 7.29.7, @babel/helper-create-class-features-plugin 7.29.7, @babel/helper-create-regexp-features-plugin 7.29.10, @babel/helper-define-polyfill-provider 0.6.8, @babel/helper-globals 7.29.7, @babel/helper-member-expression-to-functions 7.29.7, @babel/helper-module-imports 7.29.7, @babel/helper-module-transforms 7.29.7, @babel/helper-optimise-call-expression 7.29.7, @babel/helper-plugin-utils 7.29.7, @babel/helper-remap-async-to-generator 7.29.7, @babel/helper-replace-supers 7.29.7, @babel/helper-skip-transparent-expression-wrappers 7.29.7, @babel/helper-string-parser 7.29.7, @babel/helper-validator-identifier 7.29.7, @babel/helper-validator-option 7.29.7, @babel/helper-wrap-function 7.29.7, @babel/helpers 7.29.10, @babel/parser 7.29.9, @babel/plugin-proposal-decorators 7.29.7, @babel/plugin-proposal-export-default-from 7.29.7, @babel/plugin-syntax-decorators 7.29.7, @babel/plugin-syntax-dynamic-import 7.8.3, @babel/plugin-syntax-export-default-from 7.29.7, @babel/plugin-syntax-flow 7.29.7, @babel/plugin-syntax-jsx 7.29.7, @babel/plugin-syntax-nullish-coalescing-operator 7.8.3, @babel/plugin-syntax-optional-chaining 7.8.3, @babel/plugin-syntax-typescript 7.29.7, @babel/plugin-transform-arrow-functions 7.29.7, @babel/plugin-transform-async-generator-functions 7.29.7, @babel/plugin-transform-async-to-generator 7.29.7, @babel/plugin-transform-block-scoping 7.29.7, @babel/plugin-transform-class-properties 7.29.7, @babel/plugin-transform-class-static-block 7.29.7, @babel/plugin-transform-classes 7.29.7, @babel/plugin-transform-destructuring 7.29.7, @babel/plugin-transform-export-namespace-from 7.29.7, @babel/plugin-transform-flow-strip-types 7.29.7, @babel/plugin-transform-for-of 7.29.7, @babel/plugin-transform-logical-assignment-operators 7.29.7, @babel/plugin-transform-modules-commonjs 7.29.7, @babel/plugin-transform-named-capturing-groups-regex 7.29.7, @babel/plugin-transform-nullish-coalescing-operator 7.29.7, @babel/plugin-transform-object-rest-spread 7.29.7, @babel/plugin-transform-optional-catch-binding 7.29.7, @babel/plugin-transform-optional-chaining 7.29.7, @babel/plugin-transform-parameters 7.29.7, @babel/plugin-transform-private-methods 7.29.7, @babel/plugin-transform-private-property-in-object 7.29.7, @babel/plugin-transform-react-display-name 7.29.7, @babel/plugin-transform-react-jsx 7.29.7, @babel/plugin-transform-react-jsx-development 7.29.7, @babel/plugin-transform-react-jsx-self 7.29.7, @babel/plugin-transform-react-jsx-source 7.29.7, @babel/plugin-transform-react-pure-annotations 7.29.7, @babel/plugin-transform-regenerator 7.29.8, @babel/plugin-transform-runtime 7.29.7, @babel/plugin-transform-shorthand-properties 7.29.7, @babel/plugin-transform-template-literals 7.29.7, @babel/plugin-transform-typescript 7.29.9, @babel/plugin-transform-unicode-regex 7.29.7, @babel/preset-typescript 7.29.7, @babel/runtime 7.29.10, @babel/template 7.29.7, @babel/traverse 7.29.10, @babel/types 7.29.8, @expo/cli 58.1.11, @expo/code-signing-certificates 0.0.7, @expo/config 58.0.6, @expo/config-plugins 58.0.9, @expo/config-types 58.0.3, @expo/devcert 1.2.2, @expo/devtools 58.0.2, @expo/dom-webview 58.0.2, @expo/env 2.5.2, @expo/fingerprint 0.21.5, @expo/image-utils 0.12.5, @expo/inline-modules 0.2.6, @expo/json-file 11.2.1, @expo/local-build-cache-provider 58.0.6, @expo/log-box 58.0.12, @expo/log-box-utils 58.0.2, @expo/metro 58.0.0, @expo/metro-config 58.0.14, @expo/metro-file-map 58.0.5, @expo/metro-runtime 58.0.14, @expo/osascript 2.8.1, @expo/package-manager 1.14.2, @expo/platforms 58.0.1, @expo/plist 0.10.1, @expo/prebuild-config 58.0.14, @expo/require-utils 58.0.4, @expo/router-server 58.0.14, @expo/schema-utils 58.0.2, @expo/sdk-runtime-versions 1.0.1, @expo/spawn-async 1.8.0, @expo/sudo-prompt 9.3.2, @expo/ui 58.0.20, @expo/vector-icons 15.1.1, @expo/ws-tunnel 2.0.1, @expo/xcpretty 4.4.7, @jest/schemas 29.6.3, @jest/types 29.6.3, @jridgewell/gen-mapping 0.3.13, @jridgewell/remapping 2.3.5, @jridgewell/resolve-uri 3.1.2, @jridgewell/source-map 0.3.11, @jridgewell/sourcemap-codec 1.6.0, @jridgewell/trace-mapping 0.3.31, @noxcturnal/noxcturnal-linux-x64-gnu 0.1.5, @oxc-project/types 0.154.0, @radix-ui/primitive 1.2.0, @radix-ui/react-collection 1.2.0, @radix-ui/react-compose-refs 1.1.5, @radix-ui/react-context 1.3.0, @radix-ui/react-direction 1.2.0, @radix-ui/react-id 1.1.4, @radix-ui/react-presence 1.1.11, @radix-ui/react-primitive 2.2.0, @radix-ui/react-roving-focus 1.2.1, @radix-ui/react-slot 1.5.0, @radix-ui/react-tabs 1.2.1, @radix-ui/react-use-callback-ref 1.1.5, @radix-ui/react-use-controllable-state 1.3.0, @radix-ui/react-use-effect-event 0.0.5, @radix-ui/react-use-is-hydrated 0.1.3, @radix-ui/react-use-layout-effect 1.1.4, @react-native-masked-view/masked-view 0.3.2, @react-native/asset-utils 0.88.0, @react-native/babel-plugin-codegen 0.88.0, @react-native/babel-preset 0.88.0, @react-native/codegen 0.88.0, @react-native/community-cli-plugin 0.88.0, @react-native/debugger-shell 0.88.0, @react-native/dev-middleware 0.88.0, @react-native/gradle-plugin 0.88.0, @react-native/js-polyfills 0.88.0, @react-native/metro-babel-transformer 0.88.0, @react-native/metro-config 0.88.0, @react-native/normalize-colors 0.74.89, @react-native/normalize-colors 0.88.0, @react-native/virtualized-lists 0.88.0, @sinclair/typebox 0.27.12, @types/istanbul-lib-coverage 2.0.6, @types/istanbul-lib-report 3.0.3, @types/istanbul-reports 3.0.4, @types/node 26.6.5, @types/react 19.3.0, @types/react-test-renderer 19.3.0, @types/yargs 17.0.35, @types/yargs-parser 21.0.3, @xmldom/xmldom 0.8.15, @xmldom/xmldom 0.9.12, abort-controller 3.0.0, accepts 1.3.8, accepts 2.0.0, acorn 8.19.0, agent-base 7.1.4, agent-cli-detector 0.1.7, anser 1.4.10, ansi-escapes 4.3.2, ansi-regex 4.1.1, ansi-regex 5.0.1, ansi-styles 3.2.1, ansi-styles 4.3.0, ansi-styles 5.2.0, arg 5.0.2, asap 2.0.6, babel-plugin-polyfill-corejs2 0.4.17, babel-plugin-polyfill-corejs3 0.13.0, babel-plugin-polyfill-regenerator 0.6.8, babel-plugin-react-compiler 1.0.0, babel-plugin-react-native-web 0.21.4, babel-plugin-syntax-hermes-parser 0.36.1, babel-plugin-transform-flow-enums 0.0.2, babel-preset-expo 58.0.17, badgin 1.2.3, balanced-match 4.0.4, base64-js 1.5.1, bplist-creator 0.1.0, bplist-parser 0.3.1, brace-expansion 5.0.12, braces 3.0.3, browserslist 4.29.3, bser 2.1.2, buffer-from 1.1.2, bytes 3.1.2, camelcase 6.3.0, chalk 2.4.2, chalk 4.1.2, ci-info 3.9.0, cli-cursor 2.1.0, cli-spinners 2.9.2, client-only 0.0.1, clone 1.0.4, color 4.2.3, color-convert 1.9.3, color-convert 2.0.1, color-name 1.1.3, color-name 1.1.4, color-string 1.9.1, commander 12.1.0, commander 2.20.3, commander 7.2.0, compressible 2.0.18, compression 1.8.2, connect 3.7.0, content-type 2.1.0, convert-source-map 2.0.0, core-js-compat 3.50.0, cross-fetch 3.2.0, cross-spawn 7.0.6, css-in-js-utils 3.1.0, csstype 3.2.3, debug 2.6.9, debug 3.2.7, debug 4.4.3, deepmerge 4.3.1, defaults 1.0.4, define-lazy-prop 2.0.0, depd 2.0.0, destroy 1.2.0, dnssd-advertise 1.1.6, ee-first 1.1.1, emoji-regex 8.0.0, encodeurl 1.0.2, encodeurl 2.0.0, error-stack-parser 2.1.4, es-errors 1.3.0, escalade 3.2.0, escape-html 1.0.3, escape-string-regexp 1.0.5, etag 1.8.1, event-target-shim 5.0.1, expo 58.0.14, expo-application 58.1.2, expo-asset 58.0.16, expo-constants 58.0.12, expo-dev-client 58.0.14, expo-dev-launcher 58.0.14, expo-dev-menu 58.0.11, expo-dev-menu-interface 58.0.1, expo-file-system 58.0.9, expo-font 58.0.8, expo-glass-effect 58.0.4, expo-iap 6.1.0, expo-json-utils 58.0.1, expo-keep-awake 58.0.3, expo-linking 58.0.13, expo-manifests 58.0.1, expo-modules-autolinking 58.0.13, expo-modules-core 58.0.22, expo-modules-jsi 58.0.15, expo-modules-macros 0.20.0, expo-notifications 58.1.5, expo-router 58.0.23, expo-server 58.0.5, expo-sharing 58.0.19, expo-splash-screen 58.0.10, expo-status-bar 58.0.3, expo-store-review 58.0.2, expo-symbols 58.0.4, expo-system-ui 58.0.6, expo-updates-interface 58.0.1, fb-watchman 2.0.4, fbjs 3.0.5, fbjs-css-vars 1.0.2, fdir 6.5.0, fetch-nodeshim 0.4.10, fflate 0.8.3, fill-range 7.1.1, finalhandler 1.1.2, flow-enums-runtime 0.0.6, flow-estree 0.327.0, flow-estree 0.331.0, flow-parser 0.327.0, flow-parser 0.331.0, fresh 0.5.2, function-bind 1.1.2, gensync 1.0.0-beta.2, getenv 2.0.0, has-flag 3.0.0, has-flag 4.0.0, hasown 2.0.4, hermes-compiler 260318099.0.4, hermes-estree 0.36.1, hermes-parser 0.36.1, http-errors 2.0.1, https-proxy-agent 7.0.6, ignore 5.3.2, inline-style-prefixer 7.0.1, invariant 2.2.4, is-arrayish 0.3.4, is-core-module 2.17.0, is-docker 2.2.1, is-fullwidth-code-point 3.0.0, is-number 7.0.0, is-wsl 2.2.0, jest-get-type 29.6.3, jest-util 29.7.0, jest-validate 29.7.0, jest-worker 29.7.0, jimp-compact 0.16.1, js-tokens 4.0.0, js-yaml 4.3.2, jsesc 3.1.0, json5 2.2.3, kleur 3.0.3, lan-network 0.2.1, leven 3.1.0, libphonenumber-js 1.13.15, lodash.debounce 4.0.8, lodash.throttle 4.1.1, log-symbols 2.2.0, loose-envify 1.4.0, memoize-one 5.2.1, memoize-one 6.0.0, merge-stream 2.0.0, metro 0.87.1, metro-babel-transformer 0.87.1, metro-cache 0.87.1, metro-cache-key 0.87.1, metro-config 0.87.1, metro-core 0.87.1, metro-file-map 0.87.1, metro-minify-terser 0.87.1, metro-resolver 0.87.1, metro-runtime 0.87.1, metro-source-map 0.87.1, metro-symbolicate 0.87.1, metro-transform-plugins 0.87.1, metro-transform-worker 0.87.1, micromatch 4.0.8, mime 1.6.0, mime-db 1.52.0, mime-db 1.54.0, mime-types 2.1.35, mime-types 3.0.2, mimic-fn 1.2.0, ms 2.0.0, ms 2.1.3, multitars 1.0.2, nanoid 3.3.20, negotiator 0.6.3, negotiator 0.6.4, negotiator 1.1.0, node-fetch 2.7.0, node-int64 0.4.0, node-releases 2.0.59, noxcturnal 0.1.5, nullthrows 1.1.1, ob1 0.87.1, object-assign 4.1.1, on-finished 2.3.0, on-finished 2.4.1, on-headers 1.1.0, onetime 2.0.1, open 8.4.2, ora 3.4.0, parse-png 2.1.0, parseurl 1.3.3, path-key 3.1.1, path-parse 1.0.7, picomatch 2.3.2, picomatch 4.0.7, plist 3.1.1, pngjs 3.4.0, postcss 8.5.30, postcss-value-parser 4.2.0, pretty-format 29.7.0, progress 2.0.3, promise 7.3.1, promise 8.3.0, prompts 2.4.2, range-parser 1.2.1, react 19.3.0, react-devtools-core 6.1.5, react-dom 19.3.0, react-fast-compare 3.2.2, react-freeze 1.0.4, react-is 18.3.1, react-is 19.3.1, react-native 0.88.0, react-native-drawer-layout 4.2.12, react-native-gesture-handler 3.3.0, react-native-is-edge-to-edge 1.3.1, react-native-reanimated 4.7.1, react-native-safe-area-context 5.10.1, react-native-screens 4.30.0, react-native-web 0.21.4, react-native-worklets 0.13.0, react-refresh 0.14.2, regenerate 1.5.0, regenerate-unicode-properties 10.3.0, regenerator-runtime 0.13.11, regexpu-core 6.5.3, regjsgen 0.8.0, require-directory 2.1.1, resolve 1.22.13, resolve-from 5.0.0, resolve-workspace-root 2.0.1, restore-cursor 2.0.0, safe-buffer 5.2.1, sandbox-cli-detector 0.2.0, scheduler 0.28.0, send 0.19.2, serialize-error 2.1.0, serve-static 1.16.3, server-only 0.0.1, setimmediate 1.0.5, sf-symbols-typescript 2.2.0, shebang-command 2.0.0, shebang-regex 3.0.0, shell-quote 1.12.0, simple-plist 1.3.1, simple-swizzle 0.2.4, sisteransi 1.0.5, slugify 1.6.9, source-map-support 0.5.21, stackframe 1.3.4, stacktrace-parser 0.1.11, standard-navigation 0.0.5, statuses 1.5.0, statuses 2.0.2, string-width 4.2.3, strip-ansi 5.2.0, strip-ansi 6.0.1, structured-headers 0.4.1, styleq 0.1.3, supports-color 5.5.0, supports-color 7.2.0, supports-color 8.1.1, supports-hyperlinks 2.3.0, supports-preserve-symlinks-flag 1.0.0, terminal-link 2.1.1, throat 5.0.0, tinyglobby 0.2.17, to-regex-range 5.0.1, toidentifier 1.0.1, toqr 0.1.1, tr46 0.0.3, ua-parser-js 1.0.41, undici-types 8.9.0, unicode-canonical-property-names-ecmascript 2.0.1, unicode-match-property-ecmascript 2.0.0, unicode-match-property-value-ecmascript 2.2.1, unicode-property-aliases-ecmascript 2.2.0, unpipe 1.0.0, update-browserslist-db 1.3.4, use-latest-callback 0.2.6, utils-merge 1.0.1, uuid 7.0.3, vary 1.1.2, vlq 1.0.1, warn-once 0.1.1, wcwidth 1.0.1, whatwg-fetch 3.6.20, whatwg-url 5.0.0, whatwg-url-minimum 0.2.0, wrap-ansi 7.0.0, ws 7.5.13, ws 8.22.0, xml2js 0.6.0, xmlbuilder 11.0.1, xmlbuilder 15.1.1, yargs 17.7.3, zod 3.25.76, zustand 5.0.15
+
+## ISC (23)
+
+@isaacs/ttlcache 1.4.1, @ungap/structured-clone 1.4.0, cliui 8.0.1, electron-to-chromium 1.5.459, get-caller-file 2.0.5, graceful-fs 4.2.11, hosted-git-info 7.0.2, inherits 2.0.4, isexe 2.0.0, lru-cache 10.4.3, lru-cache 5.1.1, npm-package-arg 11.0.3, picocolors 1.1.1, proc-log 4.2.0, semver 6.3.1, semver 7.8.5, setprototypeof 1.2.0, signal-exit 3.0.7, validate-npm-package-name 5.0.1, which 2.0.2, y18n 5.0.8, yallist 3.1.1, yargs-parser 21.1.1
+
+## BSD-3-Clause (7)
+
+@react-native/debugger-frontend 0.88.0, hyphenate-style-name 1.1.0, makeerror 1.0.12, source-map 0.5.7, source-map 0.6.1, source-map-js 1.2.2, tmpl 1.0.5
+
+## Apache-2.0 (6)
+
+baseline-browser-mapping 2.11.29, detect-libc 2.1.2, exponential-backoff 3.1.3, typescript 6.0.3, walker 1.0.8, xcode 3.0.1
+
+## BlueOak-1.0.0 (6)
+
+glob 13.0.6, lru-cache 11.5.3, minimatch 10.2.6, minipass 7.1.3, path-scurry 2.0.2, sax 1.6.1
+
+## BSD-2-Clause (3)
+
+regjsparser 0.13.4, terser 5.51.2, webidl-conversions 3.0.1
+
+## Unlicense (2)
+
+big-integer 1.6.52, stream-buffers 2.2.0
+
+## MPL-2.0 (2)
+
+lightningcss 1.33.0, lightningcss-linux-x64-gnu 1.33.0
+
+## (MIT OR CC0-1.0) (2)
+
+type-fest 0.21.3, type-fest 0.7.1
+
+## MIT AND Apache-2.0 (1)
+
+@expo-google-fonts/material-symbols 0.4.50
+
+## Python-2.0 (1)
+
+argparse 2.0.1
+
+## CC-BY-4.0 (1)
+
+caniuse-lite 1.0.30001816
+
+## (MIT OR Apache-2.0) (1)
+
+fb-dotslash 0.5.8
+
+## 0BSD (1)
+
+jsc-safe-url 0.2.4
+
+## (BSD-3-Clause OR GPL-2.0) (1)
+
+node-forge 1.4.0
+
+## Licence texts
+
+### MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+### ISC License
+
+Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+
+### BSD 2-Clause and 3-Clause Licenses
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met: (1) Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer. (2) Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. (3, BSD-3-Clause only) Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+### Other licences
+
+Full texts: [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) · [Mozilla Public License 2.0](https://www.mozilla.org/en-US/MPL/2.0/) (source of MPL files is available from each package's npm page) · [Blue Oak Model License 1.0.0](https://blueoakcouncil.org/license/1.0.0) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) · [The Unlicense](https://unlicense.org/) · [0BSD](https://opensource.org/license/0bsd) · [Python Software Foundation License 2.0](https://docs.python.org/3/license.html).
+
+---
+
+Source: https://clientlens.co/contacts-backup/transfer/
+
+Contacts Backup, Export, Merge
+
+# Transfer contacts to a new phone
+
+Last updated: 22 October 2026
+
+**The short version**
+Make a backup on the old phone, send the file to the new phone, open it there with the app, check the preview, and tap Restore. Nothing is uploaded to us at any step.
+
+## Before you start
+
+- **Install the app on the old phone.** That is where the backup is made.
+- **Check the size of your address book.** The free version backs up address books of up to 500 contacts. For example, a phone with 450 contacts is free; a phone with 800 contacts needs Pro on the old phone to make the backup. The app tells you before you start.
+- **Restoring is always free**, whatever the size, so the new phone never needs Pro just to bring contacts in.
+- **Already synced?** If all your contacts are in iCloud (iPhone to iPhone) or in your Google account (Android to Android), signing in on the new phone may bring them across on its own. A backup is still the safest way to make sure nothing is missed, and it is the only way across between iPhone and Android, or for contacts saved only "On My iPhone" or on the phone itself.
+
+## Step by step
+
+- **Back up the old phone.** Open the app and tap **Back Up Now**. Wait for the report; it counts the phone numbers, emails and photos that were saved.
+- **Send the backup file to the new phone.** Under **Save to**, pick the easiest way:
+  - **AirDrop**: iPhone to iPhone, when both phones are next to each other.
+  - **Quick Share**: Android to Android.
+  - **Files**: save to iCloud Drive or Google Drive, then open it on the new phone. Works between iPhone and Android.
+  - **Mail**: email it to yourself. Fine for small address books; a book with many photos may be too big to attach.
+- **Open the file on the new phone.** Install the app on the new phone. Tap **Restore from a backup** (on Android, **Restore**), then **Browse Files** and pick the .vcf file. Or tap the file in AirDrop, Mail or Drive and choose the app.
+- **Check the preview.** It shows how many contacts will be added and which ones already match. Untick anyone you don't want to bring.
+- **Pick where they go.** Under **Add them back to**, choose the account that should keep them, usually iCloud on iPhone or your Google account on Android, so they also sync to your other devices.
+- **Tap Restore.** The new phone's current contacts are backed up first, so you can undo from **History** if something looks wrong.
+
+## Examples
+
+### iPhone to iPhone
+
+Maya has 320 contacts on her old iPhone, some saved only "On My iPhone". She taps **Back Up Now**, chooses **AirDrop** and sends the file to her new iPhone. On the new iPhone she taps the file, chooses the app, picks **iCloud** under **Add them back to** and taps **Restore 320 contacts**. All 320 are now in iCloud, including the ones that were never synced before.
+
+### iPhone to Android
+
+Arjun is moving from an iPhone with 640 contacts to an Android phone. 640 is over the free limit, so he unlocks Pro on the iPhone and taps **Back Up Now**, then **Files**, and saves the file to Google Drive. On the Android phone he installs the app (restoring is free), taps **Restore**, **Browse files**, and picks the file from Drive. He chooses his Google account so the contacts also appear in Gmail, and taps **Restore**.
+
+### Android to iPhone
+
+Lena's Android phone has 410 contacts. Quick Share doesn't reach an iPhone, so she chooses **Files** and saves the backup to Google Drive (or emails it to herself with **Gmail**). On the iPhone she opens the file from the Drive app or Mail, chooses the app, picks **iCloud** and restores.
+
+### Leaving a job: work contacts to your own account
+
+Sam's work Exchange account holds 150 contacts that will disappear when the employer removes the account. In the app, Sam taps the accounts line on Home (or Settings, then Accounts and groups). The work account shows how many contacts exist only there, with a button to copy them to the personal account. Contacts already saved in both places are not copied twice. Do this before your last day.
+
+## Without the app on the new phone
+
+A backup is an ordinary .vcf file, so the new phone can also import it directly. You won't get the preview or the duplicate check, so contacts that are already on the new phone may appear twice.
+
+- **iPhone:** tap the .vcf file in Files, Mail or Messages, then tap **Add All Contacts**.
+- **Android:** in the Contacts app, open **Fix & manage** and choose **Import from file**, then pick the .vcf file.
+
+If you end up with duplicates, the app's **Duplicates** tab finds them and lets you merge them, with undo.
+
+## Good to know
+
+- **Notes on iPhone:** Apple doesn't let apps read contact notes, so a backup made on an iPhone doesn't include them. Backups made on Android do.
+- **Keep the old phone until you've checked.** Open a few contacts on the new phone, including some with photos, before you reset the old one.
+- **Keep a copy.** Save one backup to iCloud Drive, Google Drive or your computer. It is useful the next time you change phones too.
+
+Stuck? See [help and support](https://clientlens.co/contacts-backup/support/).
+
+---
+
+Source: https://clientlens.co/printcal/
+
+# PrintCal: Print Your Calendar
+
+Print the calendar already on your phone.
+
+App Store · coming soon
+Google Play · coming soon
+
+Planned for early December 2026, in time to print next year's calendar.
+
+PrintCal is an iPhone, iPad and Android app that prints the calendars you already have (iCloud, Google, Outlook, Exchange and any other calendar on the phone) as clean, readable pages. Pick a month, a week or a list, then print with AirPrint or the Android print service, or save a PDF. The iPhone Calendar app and the Google Calendar app have no print button; PrintCal is that button.
+
+**Nothing leaves your phone.**
+No account, no ads, no analytics, no internet access. PrintCal reads your calendars on the phone and never changes them. App Store privacy label: Data Not Collected. Google Play Data safety: no data collected or shared.
+
+## Made for paper
+
+**Every event prints.** When a day is full, the extra events continue on an overflow page instead of being cut off. Nothing is dropped silently.
+
+**Readable from across the kitchen.** Auto-fit grows text to fill the space, plus bold and a Large Print preset. Day numbers you can read from the door.
+
+**The right paper.** Letter or A4 picked for your region, portrait or landscape, with printer-safe margins. The preview is the page that prints.
+
+**Your details, your choice.** Start and end times, location, notes, calendar name. Hide holidays and birthdays. Weekdays only for a work schedule.
+
+**All your calendars.** Each calendar in its own colour with a legend. Your selection is saved, so the fridge calendar is one tap next month.
+
+**Multi-day events done right.** A trip prints as one bar across the days, split cleanly at the week row. Meetings sit at their exact minutes in week view.
+
+## How to print your calendar from your phone
+
+- Open PrintCal and allow calendar access. Access is read-only; the app never adds, changes or deletes an event.
+- Your current month appears already laid out. Switch to **Week** or **List** if you prefer, and tick the calendars to include.
+- Adjust **Style** if you like: text size, bold or Large Print, details, paper.
+- Tap **Print** to use your phone's print dialog (AirPrint or the Android print service), or **Share** to save a PDF to Files, Google Drive or Downloads.
+
+Step-by-step guides with the built-in options too: [how to print your iPhone calendar](https://clientlens.co/printcal/print-iphone-calendar/) and [how to print Google Calendar from your phone](https://clientlens.co/printcal/print-google-calendar/).
+
+## Free and Pro
+
+**Free.** Month, week and list views. All your calendars and real events, with saved selections. Event details, text size, bold, Large Print and auto-fit. Week start, weekdays only, day hours. Letter and A4. One month or one week at a time, "This month" and "This week" quick print, one saved preset, and a small footer line on the page. Free output is never blocked or watermarked.
+
+**Pro, one purchase.** Day view and Year view (one poster or 12 pages). Any date range, up to 24 months in one PDF, past and future years. Custom title, mini months and a notes column. Four print fonts with separate sizes. Custom colours per calendar. Legal, Tabloid, A3, A5 and poster sizes. Unlimited presets and no footer line. On iPhone: Reminders lists as checklists, home-screen quick actions and Shortcuts links, and Family Sharing. On Android: home-screen app shortcuts. The price is shown in your store, in your currency. No subscription.
+
+## Good to know
+
+- The app is in English, Spanish, German, French, Portuguese (Brazil) and Japanese. Month and weekday names on the page follow your phone's language; the page's own small labels (such as "All day") are in English in this release.
+- PrintCal prints the calendars your phone's Calendar app shows. A calendar switched off there is hidden from every app, including this one.
+- Reminders printing is available on iPhone and iPad only; Android has no Reminders.
+
+Questions? See [help and support](https://clientlens.co/printcal/support/).
+
+---
+
+Source: https://clientlens.co/printcal/print-iphone-calendar/
+
+PrintCal: Print Your Calendar
+
+# How to print your iPhone calendar
+
+Last updated: 29 October 2026
+
+**The short version**
+The Calendar app on iPhone and iPad has no Print command. You can print the same calendars from a Mac, make do with a screenshot, or use an app on the phone that prints. Below, each way with its trade-offs, built-in options first.
+
+## Why there is no print button
+
+Apple's Calendar app on iPhone and iPad can share an event, but it cannot print a month, a week or a list. The Google Calendar and Outlook apps on iPhone can't either. Your events are still there in iCloud (or in your Google or Outlook account), so the question is just which screen you print them from.
+
+## Option 1: Print from a Mac (built in, free)
+
+If you have a Mac signed in to the same Apple Account, the Mac's Calendar app shows the same iCloud calendars, and it can print.
+
+- On the Mac, open **Calendar**. Check that the calendars you want are ticked in the sidebar.
+- Choose **File → Print** (or press ⌘P).
+- In the dialog, pick a **View** (Day, Week, Month or List), the **Paper** size, the **Time range**, and which **Calendars** to include. Under Options you can turn on all-day events, timed events, mini months and a calendar key.
+- Click **Continue**, then choose a printer or **Save as PDF**.
+
+**Good for:** a quick month or week when a Mac is nearby. **Watch for:** on a full month the text gets very small and events are cut short; there is no large-print setting. Google or Outlook calendars appear only if they are added to the Mac too (System Settings → Internet Accounts).
+
+## Option 2: iCloud.com in a web browser
+
+On any computer, sign in at **icloud.com** and open **Calendar**. There is no Print command of its own, but the browser's Print (⌘P or Ctrl+P) prints the month as it looks on screen.
+
+**Good for:** a computer that isn't a Mac. **Watch for:** the result is a screen print: small text, events shortened, and sometimes the right-hand days cut off. Switch the browser to landscape and "Fit to page" before printing.
+
+## Option 3: A screenshot from the phone
+
+- In Calendar, open the month view. On recent iOS versions, tap the view button at the top and choose **Details** (or **Stacked**) so the month shows event titles rather than dots.
+- Take a screenshot (side button + volume up).
+- Open it in Photos, tap Share, then **Print**, and choose your AirPrint printer.
+
+**Good for:** a one-off reminder on the fridge. **Watch for:** it is a photo of the screen, so a tall phone shape on Letter paper, small text, and only the events that fit on the screen. Times and locations are not included.
+
+## Option 4: Print straight from the phone with PrintCal
+
+[PrintCal](https://clientlens.co/printcal/) reads the calendars already on your iPhone or iPad (iCloud, Google, Outlook, Exchange, subscribed and shared) and lays them out as a proper page.
+
+- Open PrintCal and allow calendar access. Choose **Full Access**; write-only access cannot read events. Access is read-only: the app never changes an event.
+- The current month appears already laid out. Switch to **Week** or **List** if you prefer, and tick the calendars to include in the **Calendars** sheet.
+- In **Style**, choose text size, bold or **Large Print**, which details to show (end times, location, notes), and Letter or A4.
+- Tap **Print** to send the page to an AirPrint printer through the iPhone's print dialog, or **Share** to save a PDF to Files or iCloud Drive, or send it by Mail.
+
+**Good for:** a readable month or week with every event on it, when there is no Mac around, or when the people reading it need big text. When a day is too full, the extra events go on an overflow page instead of being cut off. **Watch for:** like any app, it can only see calendars that are turned on in the Calendar app; a calendar hidden under Calendar → Calendars is hidden from PrintCal too. Month, week and list are free; day and year pages are part of the one-time Pro purchase.
+
+## Which one should I use?
+
+- You want: Use
+- A quick month, Mac nearby: Option 1, Mac Calendar
+- A Windows PC and iCloud calendars: Option 2, iCloud.com, or Option 4 from the phone
+- A one-off note on the fridge, right now: Option 3, screenshot
+- Big text, every event, from the phone, PDF or paper: Option 4, PrintCal
+- A Google calendar you use on your iPhone: See [how to print Google Calendar](https://clientlens.co/printcal/print-google-calendar/)
+
+## Good to know
+
+- **No printer?** Every option above can save a PDF instead; print it later from a computer or a print shop.
+- **Letter or A4.** Pick the same paper size in the print dialog that the page was made for, or the printer will shrink or crop it.
+- **Next year's calendar.** Calendar on the Mac can print any date range. In PrintCal, the free version prints one month or one week at a time; printing a whole year, past or future, is part of Pro.
+
+Stuck? See [help and support](https://clientlens.co/printcal/support/).
+
+---
+
+Source: https://clientlens.co/printcal/print-google-calendar/
+
+PrintCal: Print Your Calendar
+
+# How to print Google Calendar from your phone
+
+Last updated: 29 October 2026
+
+**The short version**
+The Google Calendar app on Android and iPhone has no print button. The Google Calendar website does, so you can print from a computer, or from your phone's browser in desktop mode. For a page made for paper, with every event and big text, an app on the phone such as PrintCal prints the same calendar directly.
+
+## Option 1: The Google Calendar website on a computer (built in, free)
+
+- Go to **calendar.google.com** and sign in.
+- Pick the view at the top right: **Month**, **Week**, **Day** or **Schedule**. Tick the calendars to include in the list on the left.
+- Click the **Settings** gear and choose **Print**.
+- Set the **date range**, **font size**, **orientation**, colour or black and white, and whether to show events you declined. The preview updates as you go.
+- Click **Print**, then choose a printer or **Save as PDF** in the browser's print dialog.
+
+**Good for:** anyone with a computer; it's free and it's Google's own layout. **Watch for:** a month page shows titles only, and a busy day shows "+N more" with the rest left off the page. To print event details, switch to **Schedule** view first: it prints each event with its time, one line after another, though without the grid. Larger font sizes make a month spill onto more pages.
+
+## Option 2: The same website, from your phone's browser
+
+The website works on a phone too, if you ask for the desktop version.
+
+- Open **calendar.google.com** in your browser (not the app). If it opens the app or a simple mobile page, go back to the browser tab.
+- Switch to desktop mode. **Chrome (Android and iPhone):** the ⋮ menu → **Desktop site**. **Safari (iPhone):** the **aA** button in the address bar → **Request Desktop Website**.
+- Follow the steps of Option 1: Settings gear → Print → set the options → Print. In the phone's print dialog, choose a printer or **Save as PDF**.
+
+**Good for:** an emergency when no computer is near. **Watch for:** the desktop page is tiny on a phone and the Print dialog is fiddly; zoom in to reach the controls. The result is the same as Option 1.
+
+## Option 3: Print straight from the phone with PrintCal
+
+[PrintCal](https://clientlens.co/printcal/) reads the calendars synced to your phone, including Google Calendar, and lays them out as a page made for paper: big text, every event, a legend for your calendars.
+
+### On Android
+
+- Make sure your Google account syncs its calendar: Android Settings → Accounts (or Passwords & accounts) → your Google account → **Calendar** sync on. If the calendar is ticked in the Google Calendar app, it is available to PrintCal.
+- Open PrintCal and **Allow** calendar access. Access is read-only; the app never changes an event and has no internet access.
+- The current month appears. Tick the Google calendars you want in the **Calendars** sheet. Switch to **Week** or **List** if you prefer.
+- In **Style**, choose text size, bold or **Large Print**, details (end times, location, notes) and the paper size.
+- Tap **Print** to use Android's print service (most Wi-Fi printers), or **Share** to save a PDF to Google Drive or Downloads.
+
+### On iPhone or iPad
+
+- Add your Google account to the iPhone's calendars if it isn't already: Settings → Apps → Calendar → **Calendar Accounts** → Add Account → Google, with Calendars turned on. (On older iOS versions: Settings → Calendar → Accounts.) Your Google events then appear in the iPhone Calendar app.
+- Open PrintCal and allow calendar access, choosing **Full Access**.
+- Tick the Google calendars in the **Calendars** sheet, set **Style**, then **Print** with AirPrint or **Share** a PDF.
+
+**Good for:** a fridge or door calendar you can read from across the room, a work week with exact times, a list with notes and locations, all from the phone. When a day is too full for the grid, the extra events continue on an overflow page instead of being left off. **Watch for:** PrintCal shows the calendars your phone's calendar app shows; a Google calendar unticked in Google Calendar, or an account with calendar sync off, is hidden from every app. Month, week and list are free; day and year pages are part of the one-time Pro purchase.
+
+## Which one should I use?
+
+- You want: Use
+- A quick month from a computer: Option 1, the website
+- Times and details for every event, from a computer: Option 1 in Schedule view
+- No computer, once in a while: Option 2, desktop mode in the phone's browser
+- A readable page with every event, from the phone, paper or PDF: Option 3, PrintCal
+- iCloud calendars on an iPhone: See [how to print your iPhone calendar](https://clientlens.co/printcal/print-iphone-calendar/)
+
+## Good to know
+
+- **Google Tasks** are not part of a calendar's events, so none of these options prints them as calendar entries. Open Google Tasks itself for a list.
+- **Holidays and birthdays** come from their own calendars. Untick them before printing if they crowd the page; in PrintCal they have their own switches.
+- **Letter or A4.** Pick the same paper size in the print dialog that the page was made for, or the printer will shrink or crop it.
+
+Stuck? See [help and support](https://clientlens.co/printcal/support/).
+
+---
+
+Source: https://clientlens.co/printcal/support/
+
+PrintCal: Print Your Calendar
+
+# Help and support
+
+Most answers are below. If yours isn't, write to us and say which phone you have and what you were trying to print. Please don't send your calendar; we never need it.
+
+support@clientlens.co
+
+In the app, Settings → Contact support opens an email with your app version and phone model already filled in. You can read and edit it before sending.
+
+## Calendar access
+
+**Why can't the app see my calendar?** PrintCal reads calendars only with your permission, and the page stays blank until it has it. On iPhone, turn it on under Settings → Apps → PrintCal → Calendars → **Full Access**. On Android, Settings → Apps → PrintCal → Permissions → Calendar → **Allow**. Come back to the app and it re-checks on its own, no restart needed. Settings → Calendar access in the app shows what it can see right now.
+
+**What is "limited" or "add events only" access on iPhone?** iOS can give an app write-only access: the app may add events but cannot read any. Printing needs to read, so it needs full access. Open Settings → Apps → PrintCal → Calendars and choose **Full Access**.
+
+**Does the app change my events?** No. Access is used to read only; PrintCal never adds, edits or deletes an event, and never sends one anywhere.
+
+**A calendar I use is not in the list** PrintCal lists the calendars your phone's calendar app shows. On iPhone, a calendar that is off under Calendar → Calendars is hidden from every app; turn it on there and it appears in PrintCal. Subscribed and shared calendars show too, once iOS has downloaded them. On Android, a calendar you have unticked in Google Calendar or Samsung Calendar is hidden the same way; tick it there, and check Settings → Accounts → the account → Calendar sync is on.
+
+**The calendar is there but the month is empty** Open the **Calendars** sheet on the page and check that the calendar is ticked. Holidays switch off by themselves when a month has more than ten of them; turn them back on in the same sheet.
+
+## Pages, printers and paper
+
+**A day was full. Where did the rest of its events go?** On an overflow page right after the month, grouped by date. The day's cell shows "+N more" so you know to look there. Nothing is dropped. If you would rather have everything in the grid, choose a smaller text size, hide some details, or print the week instead.
+
+**Which printers work?** Any printer your phone can print to: AirPrint printers on iPhone and iPad, and any printer set up in Android's print service. Print opens the phone's own print dialog, so the choice of printer, copies and double-sided is made there. With no printer nearby, choose Save as PDF and print the file from a computer.
+
+**Letter or A4?** PrintCal picks the paper from your region: Letter in the US, Canada, Mexico and the Philippines, A4 everywhere else. Change it in **Style** on the page, or set a default under Settings → Defaults → Paper. The page is laid out for that size, so pick the same size in the print dialog.
+
+**The print is small or cut off** Check that the paper in the print dialog matches the page (Letter or A4) and that scaling is 100% or Fit. The page keeps its own margin, so borderless printing is not needed.
+
+**Where does the PDF go?** Tap **Share** and choose where: Files or iCloud Drive on iPhone, Google Drive or Downloads on Android, or any app that accepts a PDF, such as Mail. The file is named after what it holds, for example "Calendar 2027-01 Month.pdf". The app keeps the PDF only in a temporary folder that is emptied at the next launch, so save a copy where you want it.
+
+**Is the printed page in my language?** The app is in English, Spanish, German, French, Portuguese (Brazil) and Japanese and follows your phone's language. Month and weekday names on the page follow it too. The page's own small labels, such as "All day" and "+N more", are in English in this release.
+
+## Free, Pro and purchases
+
+**What is free and what is Pro?** **Free:** month, week and list views, all your calendars and real events with saved selections, event details, text size, bold, Large Print and auto-fit, week start, weekdays only, day hours, Letter and A4, one month or one week at a time, one saved preset and a small footer line on the page. **Pro, one purchase:** day view and year view, any date range up to 24 months in one PDF, custom title, mini months and a notes column, four print fonts with separate sizes, custom calendar colours, Legal, Tabloid, A3, A5 and poster sizes, unlimited presets and no footer line; on iPhone also Reminders checklists, home-screen quick actions and Shortcuts; on Android, home-screen app shortcuts. The price is shown in your store. No subscription.
+
+**I bought Pro. How do I get it on a family member's iPhone?** Pro is one purchase on your App Store account, shared through Family Sharing. On the family member's device open Settings → **Restore purchase** in the app; the App Store finds the purchase through the family. If it says nothing was found, check iPhone Settings → Family → the buyer → Share Purchases with Family.
+
+**And on Android?** Pro belongs to the Google account that bought it and works on every device signed in to that account. Sign in with it, open Settings → **Restore purchase** in the app, and Pro turns on.
+
+**Restore says no purchase was found** Make sure the device is signed in to the account (or family) that bought Pro, then tap **Restore purchase** again. Purchases on the App Store and Google Play are separate: Pro bought on an iPhone does not unlock an Android phone, and the other way round.
+
+**How do I get a refund?** Purchases are made through Apple or Google, so they handle refunds. On iPhone, go to reportaproblem.apple.com. On Android, open your order history in Google Play, or use the Google Play Help Center. If a refund is granted, Pro turns off the next time the app checks with the store.
+
+## Guides
+
+[How to print your iPhone calendar](https://clientlens.co/printcal/print-iphone-calendar/), including the built-in ways from a Mac, and [how to print Google Calendar from your phone](https://clientlens.co/printcal/print-google-calendar/), including the free way through the Google Calendar website.
+
+---
+
+Source: https://clientlens.co/printcal/privacy/
+
+PrintCal: Print Your Calendar
+
+# Privacy policy
+
+Last updated: 29 October 2026
+
+**The short version**
+Nothing leaves your phone. PrintCal has no account, no server, no analytics, no ads and no internet access of its own. It reads your calendars on the phone to lay them out on a page, and never changes them. Its App Store privacy label and Google Play Data safety form both say: no data collected.
+
+## What the app reads
+
+With your permission, the app reads the calendars on your phone: every calendar your Calendar app shows, such as iCloud, Google, Outlook or Exchange, subscribed, shared and local calendars, birthdays and holidays. On iPhone and iPad, with a separate permission, it can also read your Reminders lists (a Pro feature). It uses that access only to lay out your events on the page you asked for.
+
+The reading happens on the phone. Events are kept in memory only while a page is built and are never written to storage or to logs. Access is read-only: PrintCal never adds, edits or deletes an event or a reminder. On Android, the app does not even request the permission that would allow writing.
+
+## What the app keeps
+
+Only your choices: paper size, view, style, which calendars are ticked, your presets, how many times you have printed, and the code of the last error. Never an event's title, place, notes or link.
+
+The PDF you print or share is written to a temporary folder on the phone that is emptied the next time the app starts. Print, Share and Save hand it only to the phone's print dialog or to the app you pick, such as Files, Google Drive or Mail; that app's own privacy terms then apply.
+
+On iPhone and iPad, these settings are part of your device's own iCloud or computer backup, like any other app's data; they hold no events. On Android, the app opts out of Google device backup, so nothing of it is backed up.
+
+## What the app sends
+
+Nothing. The app has no internet access of its own: on Android it blocks the internet permission entirely, and on iPhone it makes no network connections. It contains no analytics, advertising, attribution or crash-reporting tools. If you have turned on crash or analytics sharing in your phone's settings, Apple or Google may receive reports through their own systems; those never include calendar data.
+
+Links in Settings, such as this policy, open in your web browser. The browser, not the app, makes that connection.
+
+## Purchases
+
+Pro is a one-time purchase handled by Apple's App Store or Google Play. The store takes the payment and keeps the receipt; the app only asks the store on the phone whether Pro is owned, so that it works on every device signed in to the same account or, on iPhone, the same Family Sharing group. We never see your payment details, and there is no ClientLens server involved.
+
+## When you email us
+
+If you write to support, we receive what you send: your email address, your message and anything you attach. The app's **Contact support** button prepares an email with the app version, your phone's system and model, the number of calendars the app can see and the code of the last error. You see the whole email and can edit it before it is sent from your own mail app. It never includes an event.
+
+We use these emails only to answer you and to fix problems you report. Our legal basis is our legitimate interest in answering requests you send us. We keep support emails for up to 24 months after the conversation ends, then delete them. You can ask us to delete them sooner at any time.
+
+Our email is provided by our mail service, which stores messages on our behalf.
+
+## Notifications
+
+The app sends no notifications.
+
+## How long data is kept
+
+Your settings stay on the phone until you change them or delete the app. Deleting the app removes them. PDFs in the temporary folder are removed at the next launch; copies you saved or shared elsewhere are under your control.
+
+## Children
+
+The app is not directed at children under 13 and collects no data from anyone.
+
+## Your rights
+
+The app collects no data, so for app use we hold nothing to show, correct or delete for you. Everything stays under your control, on your phone.
+
+If you have emailed us, you can ask for a copy of those emails, for corrections, or for their deletion by writing to the address below. We answer within 30 days. If you are unhappy with our answer, you can complain to the data protection authority where you live (in the EU or UK, your national regulator).
+
+Users in India can raise a grievance with our grievance contact at the address below; we acknowledge it within 72 hours and resolve it within 30 days.
+
+## Changes to this policy
+
+If this policy changes, the new version will be published on this page with a new date. Important changes will also be mentioned in the app's release notes.
+
+## Contact
+
+Publisher: ClientLens (company being formed; its registered name and address will be listed here before the app is released).
+
+Privacy and grievance contact: support@clientlens.co
+
+---
+
+Source: https://clientlens.co/printcal/terms/
+
+PrintCal: Print Your Calendar
+
+# Terms of use
+
+Last updated: 29 October 2026
+
+**The short version**
+You can use the app to print your own calendars. Check the page before you rely on it. Purchases and refunds go through Apple or Google. We do our best, but the app is provided as it is.
+
+## Who these terms are between
+
+These terms are between you and ClientLens, the publisher of PrintCal: Print Your Calendar (the "app"). ClientLens is a company being formed; its registered name and address will be listed here before the app is released. By using the app you agree to these terms. If you got the app from the App Store, Apple's Licensed Application End User License Agreement also applies; if you got it from Google Play, Google Play's terms also apply. Where they differ, the store's terms win for anything about the store.
+
+## Using the app
+
+We give you a personal, non-transferable licence to use the app on devices you own or control, for calendars you are allowed to view. Please don't copy, resell, or reverse engineer the app except where the law allows it.
+
+## Your calendars and your printouts
+
+Your calendars belong to you. The app reads them on your device and never changes them, and we never receive them (see the [privacy policy](https://clientlens.co/printcal/privacy/)). You are responsible for where you print, save or send the pages and PDFs you make, and for who sees them. A printed calendar is a copy made at that moment: events you change afterwards are not updated on paper, so print again when something important moves.
+
+The preview shows the page that will print, and the app is built so that every event in the chosen range appears on a page. Still, check the page before you rely on it, for example before handing a schedule to someone else.
+
+## Free and Pro
+
+The free version prints month, week and list pages with all your calendars and the options listed in the app and on [the app's page](https://clientlens.co/printcal/). Pro is a one-time in-app purchase that unlocks the other features listed in the app. The price is shown in your store before you buy, in your local currency. There is no subscription.
+
+Pro is tied to your Apple Account or Google account, not to a ClientLens account. Use **Restore purchase** in the app's Settings on a new device signed in to the same account. On iPhone and iPad, Pro can be shared with your Family Sharing group. Purchases on the App Store and on Google Play are separate.
+
+## Refunds
+
+Payments are taken by Apple or Google, so refunds are handled by them under their policies. On iPhone, request one at reportaproblem.apple.com. On Android, use Google Play's order history or the Google Play Help Center. If a refund is granted, Pro is turned off the next time the app checks with the store. Nothing in these terms takes away refund or withdrawal rights you have under the law where you live.
+
+## Changes to the app
+
+We may update the app to fix problems, follow store rules, or add features. If we ever stop offering the app, a Pro purchase you already made keeps working on the version you have.
+
+## No warranty
+
+We work hard to make the app reliable, but it is provided "as is" and "as available", without warranties of any kind, to the extent the law allows. We don't promise it will be error-free, that every printer will produce the same result, or that every calendar on every phone can be read; for example, a calendar hidden in your phone's Calendar app is hidden from PrintCal too.
+
+## Limit of liability
+
+To the extent the law allows, ClientLens is not liable for indirect or consequential losses, including a missed appointment that a printed page did not show or showed wrongly, or losses you could have avoided by checking the page. Our total liability for any claim about the app is limited to the amount you paid for it in the 12 months before the claim. Some places don't allow these limits, so they may not apply to you; your statutory consumer rights are not affected.
+
+## Governing law
+
+These terms are governed by the law of the place where ClientLens is registered, which will be stated here once the company is formed. If you are a consumer, you also keep the protection of the mandatory laws of the country where you live, and you can bring a claim in your local courts.
+
+## Changes to these terms
+
+If these terms change, the new version will be published on this page with a new date. Important changes will also be mentioned in the app's release notes.
+
+## Contact
+
+support@clientlens.co
+
+---
+
+Source: https://clientlens.co/printcal/accessibility/
+
+PrintCal: Print Your Calendar
+
+# Accessibility
+
+Last updated: 29 October 2026
+
+**Our goal**
+Everyone should be able to print their calendar, and the printed page should be readable by the people it is for. We aim for the app to meet WCAG 2.2 level AA on iPhone and Android.
+
+## The app
+
+- **VoiceOver and TalkBack.** Buttons, toggles, checkboxes and choices are labelled and report their state, such as "checked" or "selected". Screen titles are announced as headings.
+- **Larger text.** The app's own text follows your phone's text size setting, up to the largest accessibility size. Lists and buttons grow to fit instead of cutting words off.
+- **Dark mode.** The app follows your phone's appearance. The paper in the preview stays white, as it will print; the area around it darkens.
+- **Colour and contrast.** Text and controls meet AA contrast. Nothing is shown by colour alone: a calendar's colour always has a name next to it.
+- **Touch targets.** Buttons and links are at least 44 by 44 points (48 dp on Android), with a visible focus ring for keyboard and switch control.
+- **Reduced motion.** With reduced motion on, the preview updates without animation.
+- **Any orientation.** The app works in portrait and landscape, including on iPad.
+- **No time limits and no flashing content.**
+
+## The printed page
+
+- **Large Print preset.** One tap sets event text to 16 pt bold and day numbers to 22 pt, in black on white, using Atkinson Hyperlegible, a typeface designed for readers with low vision.
+- **Text size and bold.** Four sizes with a live preview, and auto-fit, which grows text to fill the space a light month leaves free.
+- **Black-and-white printing.** Calendars are told apart by outline, solid and hatched styles and by their initial, with a legend, so a mono printer or a reader who cannot tell colours apart loses nothing.
+- **Nothing cut off.** When a day is too full, the extra events continue on an overflow page rather than being dropped.
+
+## Known limits
+
+- The page preview does not grow with your phone's text size, because it shows the page at its printed proportions. Pinch to zoom in on it, or change the page's own text size in Style.
+- The PDF is a printed layout. It is not a tagged PDF, so screen readers on a computer may not read it in order.
+- The page's own small labels, such as "All day" and "+N more", are in English in this release.
+
+## How we test
+
+Before each release we go through calendar access, the month, week and list pages, Style and Print with VoiceOver on iPhone and TalkBack on Android, at default and at the largest text size, in light and dark mode, and check colour contrast against WCAG 2.2.
+
+## Tell us about a problem
+
+If something in the app, on a printed page or on this website is hard to use with your setup, please write to us and say what you were trying to do and which phone and assistive technology you use. We aim to reply within 5 working days.
+
+support@clientlens.co
+
+---
+
+Source: https://clientlens.co/printcal/acknowledgements/
+
+PrintCal: Print Your Calendar
+
+# Open-source acknowledgements
+
+Last updated: 29 October 2026
+
+The app is built with open-source software and fonts. We are grateful to their authors. This page lists every package and font included in the app with its licence, as the licences ask. The full licence texts are below the list; each package's copyright notice is in its own source distribution on [npmjs.com](https://www.npmjs.com/).
+
+Where a package is offered under a choice of licences, we use it under the first one listed that is not GPL. Icons are Ionicons (MIT).
+
+## Fonts (SIL Open Font License 1.1)
+
+The four print fonts are embedded in every page the app makes: **Inter** (Copyright 2016 The Inter Project Authors), **Atkinson Hyperlegible** (Copyright 2020 Braille Institute of America, Inc.), **Source Serif 4** (Copyright Adobe, with Reserved Font Name "Source") and **Nunito** (Copyright 2014 The Nunito Project Authors). All four are used under the [SIL Open Font License, Version 1.1](https://openfontlicense.org/open-font-license-official-text/). The fonts are not sold on their own; the licence allows them to be bundled with the app.
+
+## MIT (487)
+
+2g 1.0.1, @babel/code-frame 7.29.7, @babel/compat-data 7.29.7, @babel/core 7.29.7, @babel/generator 7.29.8, @babel/helper-annotate-as-pure 7.29.7, @babel/helper-compilation-targets 7.29.7, @babel/helper-create-class-features-plugin 7.29.7, @babel/helper-create-regexp-features-plugin 7.29.10, @babel/helper-define-polyfill-provider 0.6.8, @babel/helper-globals 7.29.7, @babel/helper-member-expression-to-functions 7.29.7, @babel/helper-module-imports 7.29.7, @babel/helper-module-transforms 7.29.7, @babel/helper-optimise-call-expression 7.29.7, @babel/helper-plugin-utils 7.29.7, @babel/helper-remap-async-to-generator 7.29.7, @babel/helper-replace-supers 7.29.7, @babel/helper-skip-transparent-expression-wrappers 7.29.7, @babel/helper-string-parser 7.29.7, @babel/helper-validator-identifier 7.29.7, @babel/helper-validator-option 7.29.7, @babel/helper-wrap-function 7.29.7, @babel/helpers 7.29.10, @babel/parser 7.29.9, @babel/plugin-proposal-decorators 7.29.7, @babel/plugin-proposal-export-default-from 7.29.7, @babel/plugin-syntax-decorators 7.29.7, @babel/plugin-syntax-dynamic-import 7.8.3, @babel/plugin-syntax-export-default-from 7.29.7, @babel/plugin-syntax-flow 7.29.7, @babel/plugin-syntax-jsx 7.29.7, @babel/plugin-syntax-nullish-coalescing-operator 7.8.3, @babel/plugin-syntax-optional-chaining 7.8.3, @babel/plugin-syntax-typescript 7.29.7, @babel/plugin-transform-arrow-functions 7.29.7, @babel/plugin-transform-async-generator-functions 7.29.7, @babel/plugin-transform-async-to-generator 7.29.7, @babel/plugin-transform-block-scoping 7.29.7, @babel/plugin-transform-class-properties 7.29.7, @babel/plugin-transform-class-static-block 7.29.7, @babel/plugin-transform-classes 7.29.7, @babel/plugin-transform-destructuring 7.29.7, @babel/plugin-transform-export-namespace-from 7.29.7, @babel/plugin-transform-flow-strip-types 7.29.7, @babel/plugin-transform-for-of 7.29.7, @babel/plugin-transform-logical-assignment-operators 7.29.7, @babel/plugin-transform-modules-commonjs 7.29.7, @babel/plugin-transform-named-capturing-groups-regex 7.29.7, @babel/plugin-transform-nullish-coalescing-operator 7.29.7, @babel/plugin-transform-object-rest-spread 7.29.7, @babel/plugin-transform-optional-catch-binding 7.29.7, @babel/plugin-transform-optional-chaining 7.29.7, @babel/plugin-transform-parameters 7.29.7, @babel/plugin-transform-private-methods 7.29.7, @babel/plugin-transform-private-property-in-object 7.29.7, @babel/plugin-transform-react-display-name 7.29.7, @babel/plugin-transform-react-jsx 7.29.7, @babel/plugin-transform-react-jsx-development 7.29.7, @babel/plugin-transform-react-jsx-self 7.29.7, @babel/plugin-transform-react-jsx-source 7.29.7, @babel/plugin-transform-react-pure-annotations 7.29.7, @babel/plugin-transform-regenerator 7.29.8, @babel/plugin-transform-runtime 7.29.7, @babel/plugin-transform-shorthand-properties 7.29.7, @babel/plugin-transform-template-literals 7.29.7, @babel/plugin-transform-typescript 7.29.9, @babel/plugin-transform-unicode-regex 7.29.7, @babel/preset-typescript 7.29.7, @babel/runtime 7.29.10, @babel/template 7.29.7, @babel/traverse 7.29.10, @babel/types 7.29.8, @expo/cli 58.1.14, @expo/code-signing-certificates 0.0.7, @expo/config 58.0.7, @expo/config-plugins 58.0.10, @expo/config-types 58.0.3, @expo/devcert 1.2.2, @expo/devtools 58.0.2, @expo/dom-webview 58.0.2, @expo/env 2.5.3, @expo/fingerprint 0.21.6, @expo/image-utils 0.12.5, @expo/image-utils 0.8.17, @expo/inline-modules 0.2.7, @expo/json-file 11.2.1, @expo/local-build-cache-provider 58.0.7, @expo/log-box 58.0.13, @expo/log-box-utils 58.0.2, @expo/metro 58.0.0, @expo/metro-config 58.0.16, @expo/metro-file-map 58.0.5, @expo/metro-runtime 58.0.15, @expo/modules-macros-linux-x64 0.22.0, @expo/osascript 2.8.1, @expo/package-manager 1.14.2, @expo/platforms 58.0.1, @expo/plist 0.10.1, @expo/prebuild-config 58.0.15, @expo/require-utils 55.0.8, @expo/require-utils 58.0.4, @expo/router-server 58.0.16, @expo/schema-utils 58.0.2, @expo/sdk-runtime-versions 1.0.1, @expo/spawn-async 1.8.0, @expo/sudo-prompt 9.3.2, @expo/vector-icons 15.1.1, @expo/ws-tunnel 2.0.1, @expo/xcpretty 4.4.7, @jest/schemas 29.6.3, @jest/types 29.6.3, @jridgewell/gen-mapping 0.3.13, @jridgewell/remapping 2.3.5, @jridgewell/resolve-uri 3.1.2, @jridgewell/source-map 0.3.11, @jridgewell/sourcemap-codec 1.6.0, @jridgewell/trace-mapping 0.3.31, @noxcturnal/noxcturnal-linux-x64-gnu 0.1.8, @oxc-project/types 0.154.0, @radix-ui/primitive 1.2.0, @radix-ui/react-collection 1.2.0, @radix-ui/react-compose-refs 1.1.5, @radix-ui/react-context 1.3.0, @radix-ui/react-direction 1.2.0, @radix-ui/react-id 1.1.4, @radix-ui/react-presence 1.1.11, @radix-ui/react-primitive 2.2.0, @radix-ui/react-roving-focus 1.2.1, @radix-ui/react-slot 1.5.0, @radix-ui/react-tabs 1.2.1, @radix-ui/react-use-callback-ref 1.1.5, @radix-ui/react-use-controllable-state 1.3.0, @radix-ui/react-use-effect-event 0.0.5, @radix-ui/react-use-is-hydrated 0.1.3, @radix-ui/react-use-layout-effect 1.1.4, @react-native-masked-view/masked-view 0.3.2, @react-native/asset-utils 0.88.0, @react-native/babel-plugin-codegen 0.88.0, @react-native/babel-preset 0.88.0, @react-native/codegen 0.88.0, @react-native/community-cli-plugin 0.88.0, @react-native/debugger-shell 0.88.0, @react-native/dev-middleware 0.88.0, @react-native/gradle-plugin 0.88.0, @react-native/js-polyfills 0.88.0, @react-native/metro-babel-transformer 0.88.0, @react-native/metro-config 0.88.0, @react-native/normalize-colors 0.74.89, @react-native/normalize-colors 0.88.0, @react-native/virtualized-lists 0.88.0, @sinclair/typebox 0.27.12, @types/istanbul-lib-coverage 2.0.6, @types/istanbul-lib-report 3.0.3, @types/istanbul-reports 3.0.4, @types/json-schema 7.0.15, @types/node 26.6.5, @types/react 19.3.0, @types/react-test-renderer 19.3.0, @types/yargs 17.0.35, @types/yargs-parser 21.0.3, @xmldom/xmldom 0.8.15, @xmldom/xmldom 0.9.12, accepts 1.3.8, accepts 2.0.0, acorn 8.19.0, agent-base 7.1.4, agent-cli-detector 0.1.7, ajv 8.20.0, ajv-formats 3.0.1, ajv-keywords 5.1.0, anser 1.4.10, ansi-escapes 4.3.2, ansi-regex 4.1.1, ansi-regex 5.0.1, ansi-styles 3.2.1, ansi-styles 4.3.0, ansi-styles 5.2.0, arg 5.0.2, asap 2.0.6, babel-plugin-polyfill-corejs2 0.4.17, babel-plugin-polyfill-corejs3 0.13.0, babel-plugin-polyfill-regenerator 0.6.8, babel-plugin-react-compiler 1.0.0, babel-plugin-react-native-web 0.21.4, babel-plugin-syntax-hermes-parser 0.36.1, babel-plugin-transform-flow-enums 0.0.2, babel-preset-expo 58.0.19, balanced-match 4.0.4, base64-js 1.5.1, bplist-creator 0.1.0, bplist-parser 0.3.1, brace-expansion 5.0.12, braces 3.0.3, browserslist 4.29.4, bser 2.1.2, buffer-from 1.1.2, bytes 3.1.2, camelcase 6.3.0, chalk 2.4.2, chalk 4.1.2, ci-info 3.9.0, cli-cursor 2.1.0, cli-spinners 2.9.2, client-only 0.0.1, clone 1.0.4, color 4.2.3, color-convert 1.9.3, color-convert 2.0.1, color-name 1.1.3, color-name 1.1.4, color-string 1.9.1, commander 12.1.0, commander 2.20.3, commander 7.2.0, compressible 2.0.18, compression 1.8.2, connect 3.7.0, content-type 2.1.0, convert-source-map 2.0.0, core-js-compat 3.51.0, cross-fetch 3.2.0, cross-spawn 7.0.6, css-in-js-utils 3.1.0, csstype 3.2.3, debug 2.6.9, debug 3.2.7, debug 4.4.3, deepmerge 4.3.1, defaults 1.0.4, define-lazy-prop 2.0.0, depd 2.0.0, destroy 1.2.0, dnssd-advertise 1.1.6, ee-first 1.1.1, emoji-regex 8.0.0, encodeurl 1.0.2, encodeurl 2.0.0, error-stack-parser 2.1.4, es-errors 1.3.0, escalade 3.2.0, escape-html 1.0.3, escape-string-regexp 1.0.5, escape-string-regexp 4.0.0, etag 1.8.1, expo 58.0.17, expo-application 58.1.2, expo-asset 58.0.18, expo-calendar 58.0.6, expo-clipboard 58.0.4, expo-constants 58.0.13, expo-dev-client 58.0.14, expo-dev-launcher 58.0.14, expo-dev-menu 58.0.11, expo-dev-menu-interface 58.0.1, expo-device 58.0.5, expo-file-system 58.0.10, expo-font 58.0.9, expo-glass-effect 58.0.4, expo-iap 6.1.1, expo-json-utils 58.0.1, expo-keep-awake 58.0.3, expo-linking 58.0.14, expo-localization 58.0.5, expo-manifests 58.0.1, expo-modules-autolinking 58.0.14, expo-modules-cli 0.3.1, expo-modules-core 58.0.24, expo-modules-jsi 58.0.17, expo-modules-macros 0.22.0, expo-print 58.0.7, expo-quick-actions 6.0.2, expo-router 58.0.25, expo-server 58.0.5, expo-sharing 58.0.20, expo-splash-screen 58.0.11, expo-status-bar 58.0.4, expo-store-review 58.0.2, expo-system-ui 58.0.6, expo-updates-interface 58.0.1, fast-deep-equal 3.1.3, fb-watchman 2.0.4, fbjs 3.0.5, fbjs-css-vars 1.0.2, fdir 6.5.0, fetch-nodeshim 0.4.10, fill-range 7.1.1, finalhandler 1.1.2, flow-enums-runtime 0.0.6, flow-estree 0.327.0, flow-estree 0.331.0, flow-parser 0.327.0, flow-parser 0.331.0, fresh 0.5.2, function-bind 1.1.2, gensync 1.0.0-beta.2, getenv 2.0.0, has-flag 3.0.0, has-flag 4.0.0, hasown 2.0.4, hermes-compiler 260318099.0.4, hermes-estree 0.36.1, hermes-parser 0.36.1, http-errors 2.0.1, https-proxy-agent 7.0.6, ignore 5.3.2, inline-style-prefixer 7.0.1, invariant 2.2.4, is-arrayish 0.3.4, is-core-module 2.17.0, is-docker 2.2.1, is-fullwidth-code-point 3.0.0, is-number 7.0.0, is-wsl 2.2.0, jest-get-type 29.6.3, jest-util 29.7.0, jest-validate 29.7.0, jest-worker 29.7.0, jimp-compact 0.16.1, js-tokens 4.0.0, js-yaml 4.3.2, jsesc 3.1.0, json-schema-traverse 1.0.0, json5 2.2.3, kleur 3.0.3, lan-network 0.2.1, leven 3.1.0, lodash.debounce 4.0.8, lodash.throttle 4.1.1, log-symbols 2.2.0, loose-envify 1.4.0, memoize-one 5.2.1, memoize-one 6.0.0, merge-stream 2.0.0, metro 0.87.1, metro-babel-transformer 0.87.1, metro-cache 0.87.1, metro-cache-key 0.87.1, metro-config 0.87.1, metro-core 0.87.1, metro-file-map 0.87.1, metro-minify-terser 0.87.1, metro-resolver 0.87.1, metro-runtime 0.87.1, metro-source-map 0.87.1, metro-symbolicate 0.87.1, metro-transform-plugins 0.87.1, metro-transform-worker 0.87.1, micromatch 4.0.8, mime 1.6.0, mime-db 1.52.0, mime-db 1.54.0, mime-types 2.1.35, mime-types 3.0.2, mimic-fn 1.2.0, ms 2.0.0, ms 2.1.3, multitars 1.0.2, nanoid 3.3.20, negotiator 0.6.3, negotiator 0.6.4, negotiator 1.1.0, node-fetch 2.7.0, node-int64 0.4.0, node-releases 2.0.60, noxcturnal 0.1.8, nullthrows 1.1.1, ob1 0.87.1, object-assign 4.1.1, on-finished 2.3.0, on-finished 2.4.2, on-headers 1.1.0, onetime 2.0.1, open 8.4.2, ora 3.4.0, parse-png 2.1.0, parseurl 1.3.3, path-key 3.1.1, path-parse 1.0.7, picomatch 2.3.2, picomatch 4.0.7, plist 3.1.1, pngjs 3.4.0, postcss 8.5.31, postcss-value-parser 4.2.0, pretty-format 29.7.0, progress 2.0.3, promise 7.3.1, promise 8.3.0, prompts 2.4.2, range-parser 1.2.1, react 19.3.0, react-devtools-core 6.1.5, react-dom 19.3.0, react-fast-compare 3.2.2, react-freeze 1.0.4, react-is 18.3.1, react-is 19.3.1, react-native 0.88.0, react-native-drawer-layout 4.2.12, react-native-gesture-handler 3.3.0, react-native-is-edge-to-edge 1.3.1, react-native-reanimated 4.7.1, react-native-safe-area-context 5.10.1, react-native-screens 4.30.0, react-native-web 0.21.4, react-native-webview 14.0.1, react-native-worklets 0.13.0, react-refresh 0.14.2, regenerate 1.5.0, regenerate-unicode-properties 10.3.0, regenerator-runtime 0.13.11, regexpu-core 6.5.3, regjsgen 0.8.0, require-directory 2.1.1, require-from-string 2.0.2, resolve 1.22.13, resolve-from 5.0.0, resolve-workspace-root 2.0.1, restore-cursor 2.0.0, safe-buffer 5.2.1, sandbox-cli-detector 0.2.0, scheduler 0.28.0, schema-utils 4.8.1, send 0.19.2, serialize-error 2.1.0, serve-static 1.16.3, server-only 0.0.1, setimmediate 1.0.5, sf-symbols-typescript 2.2.0, shebang-command 2.0.0, shebang-regex 3.0.0, shell-quote 1.12.0, simple-plist 1.3.1, simple-swizzle 0.2.4, sisteransi 1.0.5, slugify 1.6.9, source-map-support 0.5.21, stackframe 1.3.4, stacktrace-parser 0.1.11, standard-navigation 0.0.5, statuses 1.5.0, statuses 2.0.2, string-width 4.2.3, strip-ansi 5.2.0, strip-ansi 6.0.1, structured-headers 0.4.1, styleq 0.1.3, supports-color 5.5.0, supports-color 7.2.0, supports-color 8.1.1, supports-hyperlinks 2.3.0, supports-preserve-symlinks-flag 1.0.0, terminal-link 2.1.1, throat 5.0.0, tinyglobby 0.2.17, to-regex-range 5.0.1, toidentifier 1.0.1, toqr 0.1.1, tr46 0.0.3, ua-parser-js 0.7.41, ua-parser-js 1.0.41, undici-types 8.9.0, unicode-canonical-property-names-ecmascript 2.0.1, unicode-match-property-ecmascript 2.0.0, unicode-match-property-value-ecmascript 2.2.1, unicode-property-aliases-ecmascript 2.2.0, unpipe 1.0.0, update-browserslist-db 1.3.4, use-latest-callback 0.2.6, utils-merge 1.0.1, vary 1.1.2, vlq 1.0.1, warn-once 0.1.1, wcwidth 1.0.1, whatwg-fetch 3.6.20, whatwg-url 5.0.0, whatwg-url-minimum 0.2.0, wrap-ansi 7.0.0, ws 7.5.13, ws 8.22.0, xml2js 0.6.0, xmlbuilder 11.0.1, xmlbuilder 15.1.1, yargs 17.7.3, zod 3.25.76, zustand 5.0.16
+
+## ISC (23)
+
+@isaacs/ttlcache 1.4.1, @ungap/structured-clone 1.4.0, cliui 8.0.1, electron-to-chromium 1.5.463, get-caller-file 2.0.5, graceful-fs 4.2.11, hosted-git-info 7.0.2, inherits 2.0.4, isexe 2.0.0, lru-cache 10.4.3, lru-cache 5.1.1, npm-package-arg 11.0.3, picocolors 1.1.1, proc-log 4.2.0, semver 6.3.1, semver 7.8.5, setprototypeof 1.2.0, signal-exit 3.0.7, validate-npm-package-name 5.0.1, which 2.0.2, y18n 5.0.8, yallist 3.1.1, yargs-parser 21.1.1
+
+## BSD-3-Clause (9)
+
+@react-native/debugger-frontend 0.88.0, fast-uri 3.1.9, hyphenate-style-name 1.1.0, makeerror 1.0.12, rtl-detect 1.1.2, source-map 0.5.7, source-map 0.6.1, source-map-js 1.2.2, tmpl 1.0.5
+
+## Apache-2.0 (6)
+
+baseline-browser-mapping 2.11.31, detect-libc 2.1.2, exponential-backoff 3.1.3, typescript 6.0.3, walker 1.0.8, xcode 4.0.0
+
+## BlueOak-1.0.0 (6)
+
+glob 13.0.6, lru-cache 11.5.3, minimatch 10.2.6, minipass 7.1.3, path-scurry 2.0.2, sax 1.6.1
+
+## BSD-2-Clause (3)
+
+regjsparser 0.13.4, terser 5.51.2, webidl-conversions 3.0.1
+
+## Unlicense (2)
+
+big-integer 1.6.52, stream-buffers 2.2.0
+
+## (MIT OR CC0-1.0) (2)
+
+type-fest 0.21.3, type-fest 0.7.1
+
+## MPL-2.0 (2)
+
+lightningcss 1.33.0, lightningcss-linux-x64-gnu 1.33.0
+
+## (BSD-3-Clause OR GPL-2.0) (1)
+
+node-forge 1.4.0
+
+## CC-BY-4.0 (1)
+
+caniuse-lite 1.0.30001819
+
+## (MIT OR Apache-2.0) (1)
+
+fb-dotslash 0.5.8
+
+## 0BSD (1)
+
+jsc-safe-url 0.2.4
+
+## Python-2.0 (1)
+
+argparse 2.0.1
+
+## Licence texts
+
+### MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+### ISC License
+
+Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+
+### BSD 2-Clause and 3-Clause Licenses
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met: (1) Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer. (2) Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. (3, BSD-3-Clause only) Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+### Other licences
+
+Full texts: [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) · [Mozilla Public License 2.0](https://www.mozilla.org/en-US/MPL/2.0/) (source of MPL files is available from each package's npm page) · [Blue Oak Model License 1.0.0](https://blueoakcouncil.org/license/1.0.0) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) · [The Unlicense](https://unlicense.org/) · [0BSD](https://opensource.org/license/0bsd) · [Python Software Foundation License 2.0](https://docs.python.org/3/license.html).

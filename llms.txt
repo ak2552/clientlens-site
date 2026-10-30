@@ -5,6 +5,7 @@
 ## Apps
 
 - [Contacts Backup, Export, Merge](https://clientlens.co/contacts-backup/): iPhone and Android app that backs up every contact to a standard vCard (.vcf) file, exports contacts to Excel, CSV or JSON, restores from a backup with a preview, and merges duplicate contacts with undo. No account and no server; the app makes no network connections of its own, so the developer never receives contact data. Backups stay in the app and in the user's own iCloud or Google device backup. Free for address books of up to 500 contacts; Pro is a one-time in-app purchase (US $4.99, local prices vary). App Store and Google Play release coming soon.
+- [PrintCal: Print Your Calendar](https://clientlens.co/printcal/): iPhone, iPad and Android app that prints the calendars already on the phone (iCloud, Google, Outlook, Exchange, subscribed and local) as clean month, week, list, day and year pages, through the phone's print dialog (AirPrint or the Android print service) or as a PDF. Every event prints; a full day continues on an overflow page instead of being cut off. Auto-fit text, bold and a Large Print preset; Letter or A4; event details, holidays and birthdays, week start and weekdays-only options. No account, no ads, no analytics, no network connections; calendar access is read-only. Free with month, week and list views; Pro is a one-time purchase (price shown in the store) with day and year views, any date range, fonts, custom title, more paper sizes. In English, Spanish, German, French, Portuguese (Brazil) and Japanese. App Store and Google Play release planned for early December 2026.
 
 ## Contacts Backup, Export, Merge
 
@@ -14,6 +15,16 @@
 - [Terms of use](https://clientlens.co/contacts-backup/terms/): licence, Free and Pro, refunds through Apple and Google, warranty and liability.
 - [Accessibility](https://clientlens.co/contacts-backup/accessibility/): VoiceOver and TalkBack support, larger text, contrast, known limits, how to report a problem.
 - [Open-source acknowledgements](https://clientlens.co/contacts-backup/acknowledgements/): packages included in the app and their licences.
+
+## PrintCal: Print Your Calendar
+
+- [How to print your iPhone calendar](https://clientlens.co/printcal/print-iphone-calendar/): the iPhone Calendar app has no print command; every way to print it, built-in options first (Mac Calendar File → Print, iCloud.com in a browser, a screenshot), then PrintCal from the phone, with the trade-offs of each.
+- [How to print Google Calendar from your phone](https://clientlens.co/printcal/print-google-calendar/): the Google Calendar app cannot print; the built-in way through calendar.google.com (Settings gear → Print, Schedule view for details), the same from a phone browser in desktop mode, then PrintCal on Android and iPhone.
+- [Help and support (FAQ)](https://clientlens.co/printcal/support/): calendar permission and Full Access on iPhone, a missing calendar, an empty month, where overflow events go, printers, Letter or A4, cut-off prints, where the PDF goes, free versus Pro, Family Sharing, restoring a purchase, refunds, languages.
+- [Privacy policy](https://clientlens.co/printcal/privacy/): the app collects no data; read-only calendar access; no internet access, analytics or ads; purchases handled by Apple or Google; how support emails are handled.
+- [Terms of use](https://clientlens.co/printcal/terms/): licence, Free and Pro, refunds through Apple and Google, warranty and liability.
+- [Accessibility](https://clientlens.co/printcal/accessibility/): VoiceOver and TalkBack, larger text, dark mode, Large Print pages with a low-vision font, black-and-white printing, known limits, how to report a problem.
+- [Open-source acknowledgements](https://clientlens.co/printcal/acknowledgements/): fonts (SIL Open Font License) and packages included in the app with their licences.
 
 ## Optional
 

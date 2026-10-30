@@ -43,7 +43,7 @@ p { margin: 0 0 14px; max-width: 65ch; }
 .app .t { font-weight: 700; font-size: 17px; }
 .app .d { color: var(--muted); font-size: 15px; line-height: 1.45; }
 .app.soon { border-style: dashed; }
-.app.soon .ph { width: 64px; height: 64px; border-radius: 15px; background: var(--accent-soft); flex: none; }
+.app .ph { width: 64px; height: 64px; border-radius: 15px; background: var(--accent-soft); flex: none; }
 .hero { display: flex; gap: 18px; align-items: center; margin-top: 18px; }
 .hero img { width: 88px; height: 88px; border-radius: 20px; flex: none; box-shadow: 0 6px 20px rgba(0,0,0,.12); }
 .hero h1 { margin: 0 0 4px; font-size: clamp(26px, 5.5vw, 36px); }
@@ -72,3 +72,7 @@ footer a { color: var(--muted); }
 .steps { padding-left: 22px; margin: 0 0 14px; max-width: 65ch; }
 .steps li { margin-bottom: 6px; }
 h2.eyebrow { margin: 0 0 8px; }
+.hero .ph { width: 88px; height: 88px; border-radius: 20px; background: var(--accent-soft); flex: none; }
+table { border-collapse: collapse; width: 100%; max-width: 65ch; margin: 0 0 14px; font-size: 15px; }
+th, td { text-align: left; vertical-align: top; padding: 8px 10px; border-bottom: 1px solid var(--line); }
+th { font-weight: 600; color: var(--muted); font-size: 13px; }

@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://clientlens.co/</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-10-29</lastmod>
   </url>
   <url>
     <loc>https://clientlens.co/contacts-backup/</loc>
@@ -32,5 +32,39 @@
   <url>
     <loc>https://clientlens.co/contacts-backup/transfer/</loc>
     <lastmod>2026-10-22</lastmod>
+  </url>
+  <url>
+    <loc>https://clientlens.co/printcal/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <image:image><image:loc>https://clientlens.co/assets/printcal-icon.png</image:loc></image:image>
+    <image:image><image:loc>https://clientlens.co/assets/og-printcal.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://clientlens.co/printcal/print-iphone-calendar/</loc>
+    <lastmod>2026-10-29</lastmod>
+  </url>
+  <url>
+    <loc>https://clientlens.co/printcal/print-google-calendar/</loc>
+    <lastmod>2026-10-29</lastmod>
+  </url>
+  <url>
+    <loc>https://clientlens.co/printcal/support/</loc>
+    <lastmod>2026-10-29</lastmod>
+  </url>
+  <url>
+    <loc>https://clientlens.co/printcal/privacy/</loc>
+    <lastmod>2026-10-29</lastmod>
+  </url>
+  <url>
+    <loc>https://clientlens.co/printcal/terms/</loc>
+    <lastmod>2026-10-29</lastmod>
+  </url>
+  <url>
+    <loc>https://clientlens.co/printcal/accessibility/</loc>
+    <lastmod>2026-10-29</lastmod>
+  </url>
+  <url>
+    <loc>https://clientlens.co/printcal/acknowledgements/</loc>
+    <lastmod>2026-10-29</lastmod>
   </url>
 </urlset>
